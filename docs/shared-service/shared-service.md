@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/shared-service
 ---
 
-# UI Components
+# Shared services
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
 {: .fs-6 .fw-300 }
