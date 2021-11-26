@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-## Basic button styles
+## Basic callout
 ### Test
 
 <div>
