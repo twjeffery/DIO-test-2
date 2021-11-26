@@ -24,7 +24,7 @@ nav_order: 2
 
 
 <div>
-<iframe src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" />
+<iframe src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
 </div>
 
 ### Links that look like buttons
