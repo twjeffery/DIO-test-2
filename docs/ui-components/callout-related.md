@@ -25,28 +25,52 @@ Callouts communicate important changes or facts within the body layout through a
 
 ---
 
-# Overview
+## Related guidelines
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
-
-<div>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3pb2IK8s2QUqWieH79KdN7%2FDIO-DS---Components%3Fnode-id%3D434%253A15772" allowfullscreen></iframe>
-</div>
+[Accessibility]() | [Button placement]() | [Capitalization]() | [Content]() | [Date format]()
 
 
-# Formatting
+## Related components
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
+### Component name
+[Component name]()
 
-# Behaviors
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
-# Accessibility
----
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
+### Component name
+[Component name]()
 
-# Examples
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
+
+### Component name
+[Component name]()
+
+---
+
+
+## Related patterns
+---
+
+### Pattern name
+[Pattern name]()
+
+---
+
+### Pattern name
+[Pattern name]()
+
+---
+
+### Pattern name
+[Pattern name]()
+
+---
+
+## Related shared services
+---
+
+### Shared service name
+[Shared service name]()
+
+---
