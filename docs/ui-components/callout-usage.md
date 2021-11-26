@@ -81,6 +81,7 @@ Each calllout variant has a particular use case and its design communicates it's
 
 
 <br><br>
+
 ### Anatomy
 ![Callout anatomy](DIO-test-2/assets/images/callout-anatomy.png)
 
