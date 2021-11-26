@@ -29,9 +29,12 @@ Callouts communicate important changes or facts within the body layout through a
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
-<div>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3pb2IK8s2QUqWieH79KdN7%2FDIO-DS---Components%3Fnode-id%3D434%253A15772" allowfullscreen></iframe>
-</div>
+**When to use**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl.
+
+**When not to use**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl.
+
 
 ## Live demo
 ---
@@ -50,11 +53,18 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 />
 ```
 [**Angular**]() | [**React**]() | [**Vue**]() | [**Web components**]()
-<br><br><br>
+<br><br>
+
+<div>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3pb2IK8s2QUqWieH79KdN7%2FDIO-DS---Components%3Fnode-id%3D2154%253A13716" allowfullscreen></iframe>
+</div>
+<br>
 
 ## Formatting
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
+### Callout variants
+Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
+
 
 
 ## Behaviors
