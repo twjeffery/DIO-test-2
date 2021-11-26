@@ -3,6 +3,7 @@ layout: default
 title: Get started
 nav_order: 2
 has_children: true
+permalink: /docs/get-started
 ---
 
 # Get started
