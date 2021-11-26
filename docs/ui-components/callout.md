@@ -35,7 +35,7 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 <iframe
   width="100%"
   height="250"
-src="https://web-components.carbondesignsystem.com/?path=/story/components-button--default/iframe.html?id=components-button--default" markdown="block" />
+src="https://web-components.carbondesignsystem.com/iframe.html?id=components-button--default" markdown="block" />
 </div>
 
 
