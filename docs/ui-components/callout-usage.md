@@ -30,9 +30,11 @@ Callouts communicate important changes or facts within the body layout through a
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
 **When to use**
+<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl.
 
 **When not to use**
+<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl.
 
 
