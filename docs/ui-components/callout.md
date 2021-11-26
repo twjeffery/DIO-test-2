@@ -18,11 +18,7 @@ Callouts communicate important changes or facts within the body layout through a
 {: .fs-6 .fw-300 }
 
 
-## On this page
-{: .no_toc .text-delta }
 
-1. TOC
-{:toc}
 
 ---
 
