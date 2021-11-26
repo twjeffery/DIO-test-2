@@ -18,8 +18,15 @@ nav_order: 2
 
 ## Basic button styles
 ### Test
+<div class="panel panel-success">
+**Do's**
+{: .panel-heading}
+<div class="panel-body">
 
+THINGS TO DO
 
+</div>
+</div>
 ### Links that look like buttons
 
 <div class="code-example" markdown="1">
