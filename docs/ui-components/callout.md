@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Callouts
+title: Callout
 parent: Components
 has_children: true
 nav_order: 2
