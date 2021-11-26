@@ -69,7 +69,7 @@ Each calllout variant has a particular use case and its design communicates it's
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3pb2IK8s2QUqWieH79KdN7%2FDIO-DS---Components%3Fnode-id%3D2154%253A13716" allowfullscreen></iframe>
 </div>
 
-<div class="code-example" markdown="1">
+
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -78,7 +78,7 @@ Each calllout variant has a particular use case and its design communicates it's
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-</div>
+
 
 
 ## Behaviors
