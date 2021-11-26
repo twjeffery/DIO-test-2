@@ -62,7 +62,7 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 
 ## Formatting
 ---
-### Callout variants
+### Variants
 Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
 <br>
 <div>
