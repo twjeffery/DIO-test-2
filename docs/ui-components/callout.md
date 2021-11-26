@@ -22,8 +22,6 @@ Callouts communicate important changes or facts within the body layout through a
 
 ---
 
-# Live demo
----
 <div>
 <iframe
   width="100%"
