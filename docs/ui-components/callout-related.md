@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Callout - Code
+title: Callout - Related
 parent: Callout
 grand_parent: Components
 nav_order: 2
