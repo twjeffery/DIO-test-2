@@ -16,7 +16,7 @@ Callouts communicate important changes or facts within the body layout through a
 ## On this page
 {: .no_toc .text-delta }
 
-TOC
+1. TOC
 {:toc}
 
 ---
