@@ -80,6 +80,9 @@ Each calllout variant has a particular use case and its design communicates it's
 | Success          | Success callouts are used to inform the user of a positive status change to a performed action. |
 
 
+<br><br>
+### Anatomy
+![Callout anatomy](/assets/images/callout-anatomy.png "callout anatomy")
 
 
 ## Behaviors
