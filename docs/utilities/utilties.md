@@ -3,7 +3,7 @@ layout: default
 title: Guidelines
 nav_order: 3
 has_children: true
-permalink: docs/guidelines
+permalink: docs/utilities
 ---
 
 # Guidelines
