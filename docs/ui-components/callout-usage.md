@@ -2,7 +2,6 @@
 layout: default
 title: Callout - Usage
 parent: Callouts
-has_children: true
 nav_order: 2
 ---
 
