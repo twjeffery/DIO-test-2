@@ -21,7 +21,9 @@ Callouts communicate important changes or facts within the body layout through a
 
 
 ---
-<p class="bg-grey-dk-000">**Tags:** Surfaces | Information | Web | Structure</p>
+**Tags:** Surfaces | Information | Web | Structure
+{: .bg-grey-dk-000 }
+
 <br><br><br>
 <div>
 <iframe
