@@ -73,10 +73,11 @@ Each calllout variant has a particular use case and its design communicates it's
 
 | Variant      | Purpose           |
 |:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| Information           | Information callouts are used to communicate non-urgent information. |
+| Event | Event callouts are used to communicate information about upcoming and scheduled events.   |
+| Important          | Important callouts are used to communicate non-emergency but still important messages to a user.      |
+| Emergency           | Emergency callouts are used to alert the user to only the most important pieces of information. They can also be used to alert the user to system errors. |
+| Success          | Success callouts are used to inform the user of a positive status change to a performed action. |
 
 
 
