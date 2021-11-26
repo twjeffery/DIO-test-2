@@ -22,7 +22,7 @@ Callouts communicate important changes or facts within the body layout through a
 
 ---
 **Tags:** Surfaces | Information | Web | Structure
-{: .bg-grey-dk-000 }
+{: .text-grey-lt-200 }
 
 <br><br><br>
 <div>
