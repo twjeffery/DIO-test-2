@@ -49,8 +49,8 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
   <
 />
 ```
-[]**Angular**]() | [**React**]() | [**Vue**]() | [**Web components**]()
-<br>
+[**Angular**]() | [**React**]() | [**Vue**]() | [**Web components**]()
+<br><br><br>
 
 ## Formatting
 ---
