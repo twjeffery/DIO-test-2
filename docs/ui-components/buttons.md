@@ -22,6 +22,12 @@ nav_order: 1
   <iframe src="https://ui-components-ui-components-test.os99.gov.ab.ca/iframe.html?id=component-library-basic-elements-button--variants&args=" markdown="block" />
 </div>
 ### Links that look like buttons
+<div>
+<iframe
+  width="100%"
+  height="250"
+src="https://web-components.carbondesignsystem.com/iframe.html?id=components-button--default" markdown="block" />
+</div>
 
 <div class="code-example" markdown="1">
 [Link button](http://example.com/){: .btn }
