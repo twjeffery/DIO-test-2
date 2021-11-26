@@ -26,7 +26,7 @@ Nov 26 2021: Informaiton about what we;ve released. A short description of what 
 
 ---
 
-### Guidelines
+## Guidelines
 
 Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
 <br>
@@ -34,7 +34,7 @@ Guidelines are the basic characteristics that make up a component such as colour
 
 ---
 
-### Components
+## Components
 
 Components are reusable parts of the user interface that have been made to support a variety of applications. You can use individual components in many different patterns and contexts.
 <br>
@@ -42,7 +42,7 @@ Components are reusable parts of the user interface that have been made to suppo
 
 ---
 
-### Patterns
+## Patterns
 
 Patterns are larger tasks and flows that are supported by a group of components. You can use many different components in different patterns and contexts.
 <br>
@@ -50,7 +50,7 @@ Patterns are larger tasks and flows that are supported by a group of components.
 
 ---
 
-### Shared services
+## Shared services
 
 Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
 <br>
@@ -58,6 +58,6 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 ---
 
-### Contributing
+## Contributing
 
 To contribute to the design system, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in our [GitHub discussions]().
