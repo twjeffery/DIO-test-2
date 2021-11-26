@@ -17,6 +17,14 @@ A resource for all service teams within the DIO.
 ---
 
 ## What's new
+Nov 26 2021: Informaiton about what we;ve released. A short description of what this release contains and how to access.
+
+[Read the release notes to see what’s changed.]()
+
+[Sign up to get update emails about the Design System.]()
+
+
+---
 
 ### Guidelines
 
