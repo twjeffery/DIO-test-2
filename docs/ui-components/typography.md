@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Typography
-parent: Components
-nav_order: 1
+parent: Guidelines
+nav_order: 99
 ---
 
 # Typography
