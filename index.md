@@ -6,7 +6,7 @@ description: "Design system and other resources for service teams."
 permalink: /
 ---
 
-# DIO Design system
+# DIO Design System
 {: .fs-9 }
 
 A resource for all service teams within the DIO.
