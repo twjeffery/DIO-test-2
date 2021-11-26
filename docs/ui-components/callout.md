@@ -29,7 +29,7 @@ nav_order: 2
   width="800"
   src="https://www.figma.com/embed?embed_host=astra&url=\
        https://www.figma.com/file/LKQ4FJ4bTnCSjedbRpk931/Sample-File"
-  allowfullscreen markdown="block"
+  markdown="block"
 />
 </div>
 
