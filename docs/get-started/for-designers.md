@@ -1,7 +1,7 @@
 ---
 layout: default
-title: For designers
-parent: Get started
+title: Get started
+parent: get-started
 nav_order: 1
 ---
 
