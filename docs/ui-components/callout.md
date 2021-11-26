@@ -22,7 +22,7 @@ nav_order: 2
 <div>
 <iframe
   width="100%"
-  height="200"
+  height="auto"
 src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
 </div>
 
