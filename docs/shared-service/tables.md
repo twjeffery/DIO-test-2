@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tables
-parent: Patterns
+parent: Shared service
 nav_order: 4
 ---
 

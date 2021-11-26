@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: Patterns
+parent: Shared service
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lists
-parent: Patterns
+parent: Shared service
 nav_order: 5
 ---
 

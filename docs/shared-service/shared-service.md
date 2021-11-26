@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Patterns
+title: Shared service
 nav_order: 5
 has_children: true
 permalink: /docs/shared-service

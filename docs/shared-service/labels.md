@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Labels
-parent: Patterns
+parent: Shared service
 nav_order: 3
 ---
 
