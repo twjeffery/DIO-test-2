@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Callout - Related
+title: Related
 parent: Callout
 grand_parent: Components
-nav_order: 2
+nav_order: 3
 ---
 
 
