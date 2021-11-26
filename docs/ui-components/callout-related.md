@@ -56,16 +56,19 @@ Callouts communicate important changes or facts within the body layout through a
 ---
 
 ### Pattern name
+{: .no_toc }
 [Pattern name]()
 
 ---
 
 ### Pattern name
+{: .no_toc }
 [Pattern name]()
 
 ---
 
 ### Pattern name
+{: .no_toc }
 [Pattern name]()
 
 ---
@@ -74,6 +77,7 @@ Callouts communicate important changes or facts within the body layout through a
 ---
 
 ### Shared service name
+{: .no_toc }
 [Shared service name]()
 
 ---
