@@ -35,6 +35,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tinci
 
 ## Live demo
 ---
+<div>
+<iframe
+  width="100%"
+  height="250"
+src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
+</div>
 
 ## Formatting
 ---
