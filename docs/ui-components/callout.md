@@ -22,6 +22,7 @@ nav_order: 2
   <iframe src="https://ui-components-ui-components-test.os99.gov.ab.ca/iframe.html?id=component-library-basic-elements-button--variants&args=" markdown="block" />
 </div>
 
+<div>
 <iframe
   height="450"
   width="800"
@@ -29,7 +30,7 @@ nav_order: 2
        https://www.figma.com/file/LKQ4FJ4bTnCSjedbRpk931/Sample-File"
   allowfullscreen
 />
-
+</div>
 <div>
 <iframe src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" />
 </div>
