@@ -22,13 +22,14 @@ nav_order: 2
 <div>
 <iframe
   width="100%"
+  height="200"
 src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
 </div>
 
 <div>
 <iframe
   height="450"
-  width="800"
+  width="100% "
   src="https://www.figma.com/embed?embed_host=astra&url=\
        https://www.figma.com/file/LKQ4FJ4bTnCSjedbRpk931/Sample-File"
   markdown="block"
