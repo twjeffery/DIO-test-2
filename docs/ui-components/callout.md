@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Callouts
 parent: Components
 nav_order: 2
 ---
