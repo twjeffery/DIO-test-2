@@ -23,6 +23,16 @@ nav_order: 2
 <iframe src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
 </div>
 
+<div>
+<iframe
+  height="450"
+  width="800"
+  src="https://www.figma.com/embed?embed_host=astra&url=\
+       https://www.figma.com/file/LKQ4FJ4bTnCSjedbRpk931/Sample-File"
+  allowfullscreen markdown="block"
+/>
+</div>
+
 ### Links that look like buttons
 
 <div class="code-example" markdown="1">
