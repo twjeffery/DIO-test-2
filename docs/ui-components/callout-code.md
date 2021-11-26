@@ -31,15 +31,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tinci
 
 ### Angular
 [Angular component]()
+
 ---
+
 ### React
 [React component]()
+
 ---
+
 ### Vue
 [Vue component]()
+
 ---
+
 ### Web components
 [Web component]()
+
 ---
 
 ## Live demo
