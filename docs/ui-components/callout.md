@@ -5,8 +5,13 @@ parent: Components
 nav_order: 2
 ---
 
+
 # Callout
 {: .no_toc }
+
+Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
+{: .fs-6 .fw-300 }
+
 
 ## On this page
 {: .no_toc .text-delta }
