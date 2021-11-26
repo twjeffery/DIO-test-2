@@ -24,12 +24,15 @@ Guidelines are the basic characteristics that make up a component such as colour
 <br>
 [Browse guidelines]()
 
+---
+
 ### Components
 
 Components are reusable parts of the user interface that have been made to support a variety of applications. You can use individual components in many different patterns and contexts.
 <br>
 [Browse components]()
 
+---
 
 ### Patterns
 
@@ -37,12 +40,15 @@ Patterns are larger tasks and flows that are supported by a group of components.
 <br>
 [Browse patterns]()
 
+---
 
 ### Shared services
 
 Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
 <br>
 [Browse shared services]()
+
+---
 
 ### Contributing
 
