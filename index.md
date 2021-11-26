@@ -12,7 +12,7 @@ permalink: /
 A resource for all service teams within the DIO.
 {: .fs-6 .fw-300 }
 
-[Get started now](https://twjeffery.github.io/DIO-test-2/docs/get-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://ui-components.alpha.alberta.ca/?path=/story/react_react-components-callout--variants){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](https://twjeffery.github.io/DIO-test-2/docs/get-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/GovAlta/ui-components){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
