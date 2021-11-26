@@ -19,11 +19,6 @@ nav_order: 2
 ## Basic button styles
 ### Test
 
-
-<div>
-  <iframe src="https://ui-components-ui-components-test.os99.gov.ab.ca/iframe.html?id=component-library-basic-elements-button--variants&args=" markdown="block" />
-</div>
-
 <div>
 <iframe src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
 </div>
