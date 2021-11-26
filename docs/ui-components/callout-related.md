@@ -28,7 +28,7 @@ Callouts communicate important changes or facts within the body layout through a
 ## Related guidelines
 ---
 [Accessibility]() | [Button placement]() | [Capitalization]() | [Content]() | [Date format]()
-
+<br>
 
 ## Related components
 ---
