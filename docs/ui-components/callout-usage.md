@@ -63,6 +63,7 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 ## Formatting
 ---
 ### Variants
+{: .no_toc }
 Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
 <br>
 <div>
@@ -83,6 +84,7 @@ Each calllout variant has a particular use case and its design communicates it's
 <br><br>
 
 ### Anatomy
+{: .no_toc }
 ![Callout anatomy](DIO-test-2/assets/images/callout-anatomy.png)
 
 
