@@ -5,10 +5,10 @@ parent: Components
 nav_order: 2
 ---
 
-# Buttons
+# Callout
 {: .no_toc }
 
-## Table of contents
+## On this page
 {: .no_toc .text-delta }
 
 1. TOC
