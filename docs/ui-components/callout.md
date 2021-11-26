@@ -20,7 +20,9 @@ nav_order: 2
 ### Test
 
 <div>
-<iframe src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
+<iframe
+  width="100%"
+src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
 </div>
 
 <div>
