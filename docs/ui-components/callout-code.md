@@ -30,21 +30,25 @@ Callouts communicate important changes or facts within the body layout through a
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
 ### Angular
+{: .no_toc }
 [Angular component]()
 
 ---
 
 ### React
+{: .no_toc }
 [React component]()
 
 ---
 
 ### Vue
+{: .no_toc }
 [Vue component]()
 
 ---
 
 ### Web components
+{: .no_toc }
 [Web component]()
 
 ---
