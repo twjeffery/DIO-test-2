@@ -18,9 +18,7 @@ nav_order: 2
 
 ## Basic button styles
 ### Test
-<iframe src="https://ui-components-ui-components-test.os99.gov.ab.ca/iframe.html?id=component-library-basic-elements-button--variants&args=" markdown="block" />
 
-<iframe src="https://ui-components-ui-components-test.os99.gov.ab.ca/iframe.html?id=component-library-basic-elements-button--variants&args=" />
 
 ### Links that look like buttons
 
