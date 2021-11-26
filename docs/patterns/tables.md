@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tables
-parent: Components
+parent: Patterns
 nav_order: 4
 ---
 

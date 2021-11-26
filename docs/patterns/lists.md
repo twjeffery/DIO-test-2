@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lists
-parent: Components
+parent: Patterns
 nav_order: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: Components
+parent: Patterns
 nav_order: 1
 ---
 

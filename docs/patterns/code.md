@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Code
-parent: Components
-has_children: true
+parent: Patterns
 nav_order: 6
 ---
 

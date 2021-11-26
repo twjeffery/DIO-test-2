@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: Components
+parent: Patterns
 nav_order: 2
 ---
 
