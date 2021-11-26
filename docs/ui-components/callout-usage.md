@@ -85,7 +85,7 @@ Each calllout variant has a particular use case and its design communicates it's
 
 ### Anatomy
 {: .no_toc }
-![Callout anatomy](./assets/images/callout-anatomy.png "Callout anatomy")
+![Callout anatomy](../assets/images/callout-anatomy.png "Callout anatomy")
 
 
 ## Behaviors
