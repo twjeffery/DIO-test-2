@@ -25,7 +25,7 @@ Callouts communicate important changes or facts within the body layout through a
 
 ---
 
-# Documentation
+## Documentation
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tinci
 
 ---
 
-# Live demo
+## Live demo
 ---
 <div>
 <iframe
