@@ -64,10 +64,10 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Storybook UI library":
-    - "https://ui-components.alpha.alberta.ca/?path=/story/react_react-components-callout--variants"
   "Slack":
     - "https://app.slack.com/client/TCHSAKVEU/CCJJ4JV42"
+  "Storybook UI library":
+    - "https://ui-components.alpha.alberta.ca/?path=/story/react_react-components-callout--variants"
   "Github":
     - "https://github.com/GovAlta/ui-components"
 
