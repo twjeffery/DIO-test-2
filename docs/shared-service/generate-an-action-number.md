@@ -19,11 +19,6 @@ This shared-service generates an action number for your service to associate wit
 
 <br>
 
-## On this page
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
 
 <details open markdown="block">
   <summary>
