@@ -37,7 +37,7 @@ Action numbers are commonly a manual process, using paper and stamps. This servi
 
 ---
 
-## Using the shared services
+## Using the shared service
 
 ### When to use
 Use the action number generator if you need to create a new action number for your service.
