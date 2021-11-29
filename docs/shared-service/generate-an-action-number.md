@@ -4,38 +4,26 @@ title: Generate an action number
 parent: Shared services
 nav_order: 2
 ---
-# Callout
-Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
+# Generate an action number
+{: .no_toc }
+This shared-service generates an action number for your service to associate with a court action. The action number generator allows you to maintain a correct sequence for all action numbers created.
 <br><br>
-[**Usage**](https://twjeffery.github.io/DIO-test-2/docs/ui-components/callout-usage/) | [**Code**](https://twjeffery.github.io/DIO-test-2/docs/ui-components/callout-code/) | [**Related**](https://twjeffery.github.io/DIO-test-2/docs/ui-components/callout-related/)
-<br>
 {: .fs-6 .fw-300 }
 
 
 
 
 ---
-**Tags:** Surfaces | Information | Web | Structure
+**Tags:** Justice Digital | Action number | API | Civil action
 {: .text-grey-lt-300 }
 
 <br><br>
 
-# Navigation Structure
-{: .no_toc }
-
-## Table of contents
+## On this page
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-# Generate an action number
-{: .no_toc }
-
-## On this page
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
