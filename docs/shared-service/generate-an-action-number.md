@@ -70,3 +70,56 @@ Instructions on security (how is security being handled on this?)
 
 ## Examples
 A civil action number is made up of Year, district, and number.
+
+#### Civil action example:
+
+
+### How it’s used
+#### Who’s currently using it within their service?
+**Court case management digital service**
+Derek Osadiuk - Digital architect
+
+Chrissy Parkinson - Product owner
+
+**Filing digital service**
+Ronald Garcia - Digital architect
+
+Helen Maze - Product owner
+
+#### Examples of use:
+**Repo**
+Link to repo
+
+**Live app**
+[Link to app in test env]
+
+[Link to other relevant things]
+
+[Explanation of how it’s helping within a context of a service]
+
+Images if relevant of interface or UI
+
+---
+
+### Additional documentation
+[Action number formatting](https://goa-dio.atlassian.net/wiki/spaces/QFR/pages/1486356612/Architecture+Artifacts#Action-Numbers)
+[Any other documentation relevant in creating this service.]
+
+---
+
+### Release notes
+[v1]
+[v2]
+
+---
+
+## Support and contribution
+
+### Need help?
+[Shared service owner?]
+
+For technical help, contact the justice platform team [platform team contact information]
+
+### Want to contribute?
+These services are made by community contribution.
+[Contribution process]
