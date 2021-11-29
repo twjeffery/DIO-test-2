@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Shared service
+title: Shared services
 nav_order: 5
 has_children: true
-permalink: /docs/shared-service
+permalink: /docs/shared-services
 ---
 
 # Shared services
