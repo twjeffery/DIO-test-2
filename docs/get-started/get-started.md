@@ -4,6 +4,7 @@ title: Get started
 nav_order: 2
 has_children: true
 permalink: /docs/get-started
+last_modified_date: today
 ---
 
 # Get started

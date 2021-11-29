@@ -3,6 +3,7 @@ layout: default
 title: Support
 parent: Get started
 nav_order: 4
+last_modified_date: today
 ---
 
 # Support
