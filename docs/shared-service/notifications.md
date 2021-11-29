@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Notifications fix
+title: Notifications
 parent: Shared services
 nav_order: 12
 ---
 
-# Notifications 
+# Notifications
 {: .no_toc }
 
 ## On this page
