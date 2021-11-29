@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Capitalization
+title: Grids and spacing
 parent: Guidelines
-nav_order: 3  
+nav_order: 7   
 ---
 
-# Capitalization
+# Grids and spacing 
 {: .no_toc }
 
 ## On this page

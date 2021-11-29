@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Capitalization
+title: Icons
 parent: Guidelines
-nav_order: 3  
+nav_order: 8    
 ---
 
-# Capitalization
+# Icons
 {: .no_toc }
 
 ## On this page

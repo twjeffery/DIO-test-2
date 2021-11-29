@@ -5,7 +5,7 @@ parent: Guidelines
 nav_order: 5   
 ---
 
-# Layout Utilities
+# Content
 {: .no_toc }
 
 ## On this page

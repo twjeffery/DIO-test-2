@@ -5,7 +5,7 @@ parent: Guidelines
 nav_order: 2
 ---
 
-# Layout Utilities
+# Button placement
 {: .no_toc }
 
 ## On this page

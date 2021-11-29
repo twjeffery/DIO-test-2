@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Capitalization
+title: Date format
 parent: Guidelines
-nav_order: 3  
+nav_order: 6   
 ---
 
-# Capitalization
+# Date format
 {: .no_toc }
 
 ## On this page

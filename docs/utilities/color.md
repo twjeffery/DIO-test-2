@@ -5,7 +5,7 @@ parent: Guidelines
 nav_order: 4
 ---
 
-# Color Utilities
+# Color
 {: .no_toc }
 
 ## Table of contents

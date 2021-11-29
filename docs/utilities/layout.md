@@ -4,7 +4,7 @@ title: Layout
 parent: Guidelines
 ---
 
-# Layout Utilities
+# Layout
 {: .no_toc }
 
 ## Table of contents
