@@ -17,13 +17,22 @@ This shared-service generates an action number for your service to associate wit
 **Tags:** Justice Digital | Action number | API | Civil action
 {: .text-grey-lt-300 }
 
-<br><br>
+<br>
 
 ## On this page
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 ---
 
 ## Background
