@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Accessibility
+title: Button placement
 parent: Guidelines
-nav_order: 1
+nav_order: 2
 ---
 
 # Layout Utilities
