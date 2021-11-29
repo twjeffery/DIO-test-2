@@ -64,8 +64,12 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "UI library on storybook":
+  "Storybook UI library":
     - "https://ui-components.alpha.alberta.ca/?path=/story/react_react-components-callout--variants"
+  "Slack":
+    - "https://app.slack.com/client/TCHSAKVEU/CCJJ4JV42"
+  "Github":
+    - "https://github.com/GovAlta/ui-components"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
