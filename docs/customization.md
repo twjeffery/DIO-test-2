@@ -2,7 +2,7 @@
 layout: default
 title: Glossary
 nav_order: 7
-last_modified_date: "%b %e %Y at %I:%M %p"
+last_modified_date: today
 ---
 
 # Glossary

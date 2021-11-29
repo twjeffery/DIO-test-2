@@ -17,7 +17,7 @@ A resource for all service teams within the DIO.
 ---
 
 ## What's new
-Nov 26 2021: Informaiton about what we;ve released. A short description of what this release contains and how to access.
+**Nov 26 2021:** Information about what we've released. A short description of what this release contains and how to access.
 
 [Read the release notes to see what’s changed.]()
 
@@ -30,7 +30,7 @@ Nov 26 2021: Informaiton about what we;ve released. A short description of what 
 
 Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
 <br>
-[Browse guidelines]()
+[Browse guidelines](https://twjeffery.github.io/DIO-test-2/docs/guidelines)
 
 ---
 
@@ -38,7 +38,7 @@ Guidelines are the basic characteristics that make up a component such as colour
 
 Components are reusable parts of the user interface that have been made to support a variety of applications. You can use individual components in many different patterns and contexts.
 <br>
-[Browse components]()
+[Browse components](https://twjeffery.github.io/DIO-test-2/docs/components)
 
 ---
 
@@ -46,7 +46,7 @@ Components are reusable parts of the user interface that have been made to suppo
 
 Patterns are larger tasks and flows that are supported by a group of components. You can use many different components in different patterns and contexts.
 <br>
-[Browse patterns]()
+[Browse patterns](https://twjeffery.github.io/DIO-test-2/docs/patterns)
 
 ---
 
@@ -54,10 +54,10 @@ Patterns are larger tasks and flows that are supported by a group of components.
 
 Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
 <br>
-[Browse shared services]()
+[Browse shared services](https://twjeffery.github.io/DIO-test-2/docs/shared-services)
 
 ---
 
 ## Contributing
 
-To contribute to the design system, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in our [GitHub discussions]().
+To contribute to the design system, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in our [GitHub discussions](https://github.com/GovAlta/ui-components/discussions).
