@@ -4,7 +4,6 @@ title: For designers
 parent: Get started
 nav_order: 1
 last_modified_date: today
-
 ---
 
 # For Designers
