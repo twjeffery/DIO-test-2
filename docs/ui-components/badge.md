@@ -5,7 +5,7 @@ parent: Components
 nav_order: 1
 ---
 
-# Buttons
+# Badge
 {: .no_toc }
 
 ## Table of contents
@@ -15,5 +15,3 @@ nav_order: 1
 {:toc}
 
 ---
-
-## Badge

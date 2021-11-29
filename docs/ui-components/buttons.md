@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Buttons
+title: Button
 parent: Components
-nav_order: 1
+nav_order: 2
 ---
 
-# Buttons
+# Button
 {: .no_toc }
 
 ## Table of contents
