@@ -2,6 +2,7 @@
 layout: default
 title: Layout
 parent: Guidelines
+nav_order: 10
 ---
 
 # Layout
