@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Divider
+title: Hero banner
 parent: Components
 has_children: true
-nav_order: 9
+nav_order: 14
 has_toc: false
 ---
 
 
-# Divider
+# Hero banner
 {: .no_toc }
 
 Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.

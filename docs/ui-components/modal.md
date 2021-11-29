@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Divider
+title: Modal
 parent: Components
 has_children: true
-nav_order: 9
+nav_order: 16
 has_toc: false
 ---
 
 
-# Divider
+# Modal
 {: .no_toc }
 
 Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
