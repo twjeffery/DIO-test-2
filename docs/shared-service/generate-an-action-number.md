@@ -27,10 +27,10 @@ This shared-service generates an action number for your service to associate wit
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    On this page
   </summary>
   {: .text-delta }
-1. TOC
+- TOC
 {:toc}
 </details>
 ---
@@ -86,11 +86,13 @@ A civil action number is made up of Year, district, and number.
 ### How it’s used
 #### Who’s currently using it within their service?
 **Court case management digital service**
+
 Derek Osadiuk - Digital architect
 
 Chrissy Parkinson - Product owner
 
 **Filing digital service**
+
 Ronald Garcia - Digital architect
 
 Helen Maze - Product owner
@@ -112,12 +114,14 @@ Images if relevant of interface or UI
 
 ### Additional documentation
 [Action number formatting](https://goa-dio.atlassian.net/wiki/spaces/QFR/pages/1486356612/Architecture+Artifacts#Action-Numbers)
+
 [Any other documentation relevant in creating this service.]
 
 ---
 
 ### Release notes
 [v1]
+
 [v2]
 
 ---
@@ -131,4 +135,5 @@ For technical help, contact the justice platform team [platform team contact inf
 
 ### Want to contribute?
 These services are made by community contribution.
+
 [Contribution process]
