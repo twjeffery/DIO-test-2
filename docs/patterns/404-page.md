@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Ask users for...
+title: 404 page
 parent: Patterns
-nav_order: 2
-has_children: true
+nav_order: 1
 ---
 
-# Ask users for...
+# 404 page
 {: .no_toc }
 
 ## On this page
