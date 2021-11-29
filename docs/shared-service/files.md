@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Glossary
-nav_order: 7
+title: Files
+parent: Shared services
+nav_order: 8
 ---
 
-# Glossary
+# Files
 {: .no_toc }
 
-## Table of contents
+## On this page
 {: .no_toc .text-delta }
 
 1. TOC

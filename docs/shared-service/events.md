@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Glossary
+title: Events
+parent: Shared services
 nav_order: 7
 ---
 
-# Glossary
+# Events
 {: .no_toc }
 
-## Table of contents
+## On this page
 {: .no_toc .text-delta }
 
 1. TOC
