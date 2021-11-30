@@ -34,6 +34,7 @@ These libraries are automatically enabled for all members of the DIO Figma team.
 
 [Patterns Figma library](https://www.figma.com/file/UbIKwjbxuPUvoFNYvMBGpe/DIO-DS---Patterns?node-id=254%3A253)
 <br><br>
+
 ---
 
 [See Confluence for more information](https://goa-dio.atlassian.net/wiki/spaces/DIO/pages/2079555810/Using+the+Design+System+in+Figma)
