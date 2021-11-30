@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Find a court location
-parent: Shared services
+parent: Justice
 nav_order: 6
 ---
 
