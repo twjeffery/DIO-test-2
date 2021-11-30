@@ -2,7 +2,7 @@
 layout: default
 title: Support
 parent: Get started
-nav_order: 4
+nav_order: 3
 last_modified_date: today
 ---
 
