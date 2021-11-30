@@ -9,7 +9,7 @@ permalink: /
 # DIO Design System
 {: .fs-9 }
 
-A resource for all service teams within the DIO.
+A resource for all service teams within the [Digital Innovation Office](https://www.alberta.ca/alberta-digital-innovation-office.aspx)
 {: .fs-6 .fw-300 }
 
 [Get started](https://twjeffery.github.io/DIO-test-2/docs/get-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
