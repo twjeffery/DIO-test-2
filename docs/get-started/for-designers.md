@@ -8,8 +8,9 @@ last_modified_date: today
 
 # For Designers
 
-### DIO designers can use the guidelines through the shared Figma libraries:
+## DIO designers can use the guidelines through the shared Figma libraries:
 
+<br>
 <div>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FylmHeuDMfxnDBnP1VaQYz8%2FDIO-DS---Guidelines%3Fnode-id%3D254%253A253" allowfullscreen></iframe>
 </div>
