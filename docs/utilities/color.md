@@ -24,7 +24,7 @@ There are three primary types of colour groups: layout, interactive, and status.
 
 | Color value    | Font color utility   | Background color utility |
 |:---------------|:---------------------|:-------------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle govab-brand-colour"></span> `grey-lt-000` | `.text-grey-lt-000` | `.bg-grey-lt-000` |
+| <span class="d-inline-block p-2 mr-1 v-align-middle #0081A2"></span> `grey-lt-000` | `.text-grey-lt-000` | `.bg-grey-lt-000` |
 | <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-100"></span> `grey-lt-100` | `.text-grey-lt-100` | `.bg-grey-lt-100` |
 | <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-200"></span> `grey-lt-200` | `.text-grey-lt-200` | `.bg-grey-lt-200` |
 | <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300"></span> `grey-lt-300` | `.text-grey-lt-300` | `.bg-grey-lt-300` |
