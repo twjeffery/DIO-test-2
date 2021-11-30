@@ -4,6 +4,7 @@ title: Justice
 nav_order: 5
 has_children: true
 permalink: /docs/shared-services/justice
+parent: Shared services
 ---
 
 # Shared services
