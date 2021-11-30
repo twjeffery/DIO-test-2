@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Glossary
-nav_order: 7
+parent: Get started
+nav_order: 5
 last_modified_date: today
 ---
 
