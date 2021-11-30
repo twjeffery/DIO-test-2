@@ -9,5 +9,5 @@ last_modified_date: today
 # Contribution
 
 Outline of contribution process.
-<br>
+<br><br>
 [For more information, see documentation on confluence]()
