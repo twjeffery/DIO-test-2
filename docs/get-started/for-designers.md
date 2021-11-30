@@ -8,7 +8,7 @@ last_modified_date: today
 
 # For Designers
 
-## DIO designers can use the guidelines through following shared Figma libraries:
+## DIO designers can use the guidelines through the following shared Figma libraries:
 These libraries are automatically enabled for all members of the DIO Figma team.
 <br>
 <br>
