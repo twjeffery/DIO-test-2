@@ -99,3 +99,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tinci
 ## Examples
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
+
+---
+
+## Feedback
+---
+Help improve this page. To help make sure that this page is useful, relevant and up to date, you can [share your research or feedback on Github](#) or propose a change below. [how to propose changes in Github](#)
