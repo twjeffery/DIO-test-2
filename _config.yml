@@ -66,6 +66,8 @@ heading_anchors: true
 aux_links:
   "Slack":
     - "https://app.slack.com/client/TCHSAKVEU/CCJJ4JV42"
+    "Discussions":
+      - "https://github.com/GovAlta/ui-components/discussions"
   "Storybook UI library":
     - "https://ui-components.alpha.alberta.ca/?path=/story/react_react-components-callout--variants"
   "Github":
