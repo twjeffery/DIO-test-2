@@ -24,19 +24,6 @@ Callouts communicate important changes or facts within the body layout through a
 
 ---
 
-## Overview
----
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
-
-**When to use**
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl.
-
-**When not to use**
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl.
-
-
 ## Live demo
 ---
 <div>
@@ -64,7 +51,13 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 
 ### Content
 {: .no_toc }
-Text
+Callout banners should communicate one piece of crucial information pertaining to the topic.
+
+A callout banner must be relevant to the header or section to which it corresponds. In terms of importance within the section, it takes priority over any other paragraph under the header. If there is additional information that is not in the corresponding section, or is on another page, do use a link.
+
+#### Container Text
+{: .no_toc }
+At minimum, body text is required. There may be an optional header.
 
 ### Positioning
 {: .no_toc }
