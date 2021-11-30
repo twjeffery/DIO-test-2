@@ -104,4 +104,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tinci
 
 ## Feedback
 ---
-Help improve this page. To help make sure that this page is useful, relevant and up to date, you can [share your research or feedback on Github](#) or propose a change below. [how to propose changes in Github](#)
+Help improve this page. To help make sure that this page is useful, relevant and up to date, you can [share your research or feedback on Github](#) or propose a change below using _Edit this page._ [How to propose changes in Github](#)
