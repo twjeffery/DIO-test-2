@@ -43,7 +43,7 @@ Action numbers are commonly a manual process, using paper and stamps. This servi
 {: .no_toc }
 Use the action number generator if you need to create a new action number for your service.
 
-You would use this micro-service when you need to reliably generate an action number for a certain [jurisdiction](https://twjeffery.github.io/DIO-test-2/docs/glossary/#:~:text=%C2%A0-,Jurisdiction,-A%20jurisdiction%20is) and district or centre. The action number generator allows you to maintain a correct sequence for all action numbers created.
+You would use this micro-service when you need to reliably generate an action number for a certain [jurisdiction](https://twjeffery.github.io/DIO-test-2/docs/glossary/#:~:text=Justice-,Jurisdiction,-A%20jurisdiction%20is) and district or centre. The action number generator allows you to maintain a correct sequence for all action numbers created.
 
 ### When not to use
 {: .no_toc }
