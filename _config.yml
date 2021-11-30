@@ -66,8 +66,6 @@ heading_anchors: true
 aux_links:
   "Slack":
     - "https://app.slack.com/client/TCHSAKVEU/CCJJ4JV42"
-    "Discussions":
-      - "https://github.com/GovAlta/ui-components/discussions"
   "Storybook UI library":
     - "https://ui-components.alpha.alberta.ca/?path=/story/react_react-components-callout--variants"
   "Github":
@@ -101,7 +99,7 @@ gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/twjeffery/DIO-test-2" # the github URL for your repo
 gh_edit_branch: "restore-better" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: dark
