@@ -64,11 +64,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Slack":
-    - "https://app.slack.com/client/TCHSAKVEU/CCJJ4JV42"
-  "Discussions":
+  "Support":
+    - "https://twjeffery.github.io/DIO-test-2/docs/get-started/support/"
+  "Contribute":
     - "https://github.com/GovAlta/ui-components/discussions"
-  "Github":
+  "Code repository":
     - "https://github.com/GovAlta/ui-components"
 
 # Makes Aux links open in a new tab. Default is false
