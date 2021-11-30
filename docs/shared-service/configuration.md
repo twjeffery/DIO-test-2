@@ -2,7 +2,7 @@
 layout: default
 title: Configuration
 parent: Shared services
-nav_order: 5
+nav_order: 3
 ---
 
 # Configuration

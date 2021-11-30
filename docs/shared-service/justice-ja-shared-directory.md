@@ -2,7 +2,7 @@
 layout: default
 title: Justice/JA shared directory
 parent: Shared services
-nav_order: 10
+nav_order: 9
 ---
 
 # Justice/JA shared directory

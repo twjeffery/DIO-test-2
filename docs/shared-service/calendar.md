@@ -2,7 +2,7 @@
 layout: default
 title: Calendar
 parent: Shared services
-nav_order: 3
+nav_order: 2
 ---
 
 # Calendar

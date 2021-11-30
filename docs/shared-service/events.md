@@ -2,7 +2,7 @@
 layout: default
 title: Events
 parent: Shared services
-nav_order: 7
+nav_order: 4
 ---
 
 # Events
