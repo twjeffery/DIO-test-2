@@ -3,6 +3,7 @@ layout: default
 title: Badge
 parent: Components
 nav_order: 1
+has_children: true
 ---
 
 # Badge
