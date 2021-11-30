@@ -62,6 +62,20 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 
 ## Formatting
 ---
+
+### Content
+{: .no_toc }
+Text
+
+### Positioning
+{: .no_toc }
+Text
+
+### Layout
+{: .no_toc }
+Text
+
+
 ### Variants
 {: .no_toc }
 Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
@@ -83,7 +97,7 @@ Each calllout variant has a particular use case and its design communicates it's
 
 <br><br>
 
-### Anatomy
+### Anatomy and elements
 {: .no_toc }
 ![Callout anatomy](../assets/images/callout-anatomy.png "Callout anatomy")
 
@@ -92,13 +106,17 @@ Each calllout variant has a particular use case and its design communicates it's
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
+### Breakpoint sizing
+{: .no_toc }
+text
+
 ## Accessibility
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
 ## Examples
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
+Examples of this component used in context. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
 ---
 
