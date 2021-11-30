@@ -31,7 +31,7 @@ This shared-service generates an action number for your service to associate wit
 ---
 
 ## Background
-An Action Number is a business key that is used to identify actions across all tracks in the Courts.
+An [Action Number](https://twjeffery.github.io/DIO-test-2/docs/glossary/#:~:text=Area-,Action%20number,-An%20Action%20Number) is a business key that is used to identify actions across all tracks in the Courts.
 
 Action numbers are commonly a manual process, using paper and stamps. This service generates Action numbers automatically, automating the manual process and saving time, while eliminating duplicates of action numbers.
 
@@ -43,7 +43,7 @@ Action numbers are commonly a manual process, using paper and stamps. This servi
 {: .no_toc }
 Use the action number generator if you need to create a new action number for your service.
 
-You would use this micro-service when you need to reliably generate an action number for a certain jurisdiction and district or centre. The action number generator allows you to maintain a correct sequence for all action numbers created.
+You would use this micro-service when you need to reliably generate an action number for a certain [jurisdiction](https://twjeffery.github.io/DIO-test-2/docs/glossary/#:~:text=%C2%A0-,Jurisdiction,-A%20jurisdiction%20is) and district or centre. The action number generator allows you to maintain a correct sequence for all action numbers created.
 
 ### When not to use
 {: .no_toc }
@@ -80,7 +80,7 @@ Instructions on security (how is security being handled on this?)
 ---
 
 ## Examples
-A civil action number is made up of Year, district, and number.
+A [civil action](https://twjeffery.github.io/DIO-test-2/docs/glossary/#:~:text=Justice-,Civil%20action,-A%20civil%20action) number is made up of Year, district, and number.
 
 #### Civil action example:
 {: .no_toc }
