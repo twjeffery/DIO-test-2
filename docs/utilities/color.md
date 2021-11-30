@@ -16,7 +16,7 @@ nav_order: 4
 
 ---
 
-The colour palette is accessible and derived from government brand standards.
+The colour palette is accessible and derived from the government brand standards.
 
 There are three primary types of colour groups: layout, interactive, and status.
 
