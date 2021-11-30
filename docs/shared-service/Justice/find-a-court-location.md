@@ -2,8 +2,8 @@
 layout: default
 title: Find a court location
 parent: Justice
-nav_order: 6
 grand_parent: Shared services
+nav_order: 6
 ---
 
 # Find a court location

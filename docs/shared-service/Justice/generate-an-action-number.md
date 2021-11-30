@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Generate an action number
-parent: Shared services
+parent: Justice
+grand_parent: Shared services
 nav_order: 8
 ---
 # Generate an action number

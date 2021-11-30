@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Justice/JA shared directory
-parent: Shared services
+parent: Justice
+grand_parent: Shared services
 nav_order: 9
 ---
 
