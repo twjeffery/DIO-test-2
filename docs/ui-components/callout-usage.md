@@ -23,7 +23,7 @@ Callouts communicate important changes or facts within the body layout through a
 - TOC
 {:toc}
 
-<br><br>
+<br>
 ## Live Demo
 ---
 <div>
