@@ -7,7 +7,14 @@ last_modified_date: today
 ---
 
 # Support
-
-The GOA design system is supported by the DIO platform teams. For help, questions, or feedback, contact the [design system team]()
+The GOA design system is supported by the design system team. For help, questions, or feedback, contact the [design system team]()
 <br><br>
-[For more information, see documentation on confluence]()
+
+The design system team uses slack to communicate with the DIO service teams.
+
+| Channel name        | Description         |
+|:-------------|:------------------|
+| [#design-system-releases](#) | good swedish fish | 
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
