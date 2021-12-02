@@ -33,21 +33,16 @@ Callouts communicate important changes or facts within the body layout through a
 ## Related components
 ---
 
-### Component name
+### Card
 {: .no_toc }
 [Component name]()
 
 ---
 
-### Component name
+### Badge
 {: .no_toc }
 [Component name]()
 
----
-
-### Component name
-{: .no_toc }
-[Component name]()
 
 ---
 
@@ -55,29 +50,23 @@ Callouts communicate important changes or facts within the body layout through a
 ## Related patterns
 ---
 
-### Pattern name
+### Form
 {: .no_toc }
-[Pattern name]()
+[Form]()
 
 ---
 
-### Pattern name
+### Logging in
 {: .no_toc }
-[Pattern name]()
-
----
-
-### Pattern name
-{: .no_toc }
-[Pattern name]()
+[Logging in]()
 
 ---
 
 ## Related shared services
 ---
 
-### Shared service name
+### Forms
 {: .no_toc }
-[Shared service name]()
+[Forms]()
 
 ---
