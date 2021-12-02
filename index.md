@@ -29,7 +29,7 @@ A resource for all service teams within the [Digital Innovation Office](https://
 ## Guidelines
 
 Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
-<br>
+
 [Browse guidelines](https://twjeffery.github.io/DIO-test-2/docs/guidelines)
 
 ---
@@ -37,7 +37,7 @@ Guidelines are the basic characteristics that make up a component such as colour
 ## Components
 
 Components are reusable parts of the user interface that have been made to support a variety of applications. You can use individual components in many different patterns and contexts.
-<br>
+
 [Browse components](https://twjeffery.github.io/DIO-test-2/docs/components)
 
 ---
