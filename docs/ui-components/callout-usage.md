@@ -65,7 +65,7 @@ At minimum, body text is required. There may be an optional header.
 ### Variants
 {: .no_toc }
 Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
-<br>
+<br><br>
 
 ![image infos](../../assets/images/callout-variants.png)
 
@@ -79,36 +79,19 @@ Each calllout variant has a particular use case and its design communicates it's
 | Success          | Success callouts are used to inform the user of a positive status change to a performed action. |
 
 
-<br><br>
 
 ### Positioning
 {: .no_toc }
-Text
+Callout banners should be the full width of the content space they are placed in, with a maximum width of 700px.
 
-### Layout
-{: .no_toc }
-Text
+Callouts banners have a bottom margin of 28px.
+
+![image infos](../../assets/images/callout-dont-4.png)
+
 
 ### Anatomy and elements
 {: .no_toc }
 ![image infos](../../assets/images/callout-anatomy.png)
-
-
-## Behaviors
----
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
-
-### Breakpoint sizing
-{: .no_toc }
-text
-
-## Accessibility
----
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
-
-## Examples
----
-Examples of this component used in context. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non vitae aliquet tincidunt sit nec nullam at. Tortor eget eleifend libero et adipiscing lectus. Egestas a arcu blandit aliquet consectetur nunc venenatis quis nisl. Dignissim tristique nulla fames senectus diam vitae.
 
 ---
 
