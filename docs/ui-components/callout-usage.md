@@ -58,25 +58,16 @@ At minimum, body text is required. There may be an optional header.
 
 ![image infos](../../assets/images/callout-do-1.png)
 ![image infos](../../assets/images/callout-dont-1.png)
-
-### Positioning
-{: .no_toc }
-Text
-
-### Layout
-{: .no_toc }
-Text
+![image infos](../../assets/images/callout-dont-2.png)
+![image infos](../../assets/images/callout-dont-3.png)
+![image infos](../../assets/images/callout-dont-4.png)
 
 
 ### Variants
 {: .no_toc }
 Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
 <br>
-<div>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3pb2IK8s2QUqWieH79KdN7%2FDIO-DS---Components%3Fnode-id%3D2154%253A13716" allowfullscreen></iframe>
-</div>
-
-
+![image infos](../../assets/images/callout-variants.png)
 
 | Variant      | Purpose           |
 |:-------------|:------------------|
@@ -88,6 +79,14 @@ Each calllout variant has a particular use case and its design communicates it's
 
 
 <br><br>
+
+### Positioning
+{: .no_toc }
+Text
+
+### Layout
+{: .no_toc }
+Text
 
 ### Anatomy and elements
 {: .no_toc }
