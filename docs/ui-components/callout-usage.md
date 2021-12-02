@@ -4,6 +4,7 @@ title: Usage
 parent: Callout
 grand_parent: Components
 nav_order: 1
+last_modified_date: today
 ---
 
 
@@ -54,6 +55,7 @@ A callout banner must be relevant to the header or section to which it correspon
 ### Container Text
 {: .no_toc }
 At minimum, body text is required. There may be an optional header.
+<br><br>
 
 ![image infos](../../assets/images/callout-do-1.png)
 ![image infos](../../assets/images/callout-dont-1.png)
@@ -85,6 +87,7 @@ Each calllout variant has a particular use case and its design communicates it's
 Callout banners should be the full width of the content space they are placed in, with a maximum width of 700px.
 
 Callouts banners have a bottom margin of 28px.
+<br><br>
 
 ![image infos](../../assets/images/callout-dont-4.png)
 
@@ -99,4 +102,4 @@ Callouts banners have a bottom margin of 28px.
 
 ## Feedback
 ---
-Help improve this page. To help make sure that this page is useful, relevant and up to date, you can share your research or feedback on [Github](https://github.com/GovAlta/ui-components/issues/158) or propose a change below using _Edit this page._
+Help improve this page. To help make sure that this page is useful, relevant and up to date, you can share your research or feedback on [Github](https://github.com/GovAlta/ui-components/issues/158) or propose a change below using _Edit this page on Github._
