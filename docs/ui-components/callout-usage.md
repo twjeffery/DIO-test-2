@@ -60,14 +60,15 @@ At minimum, body text is required. There may be an optional header.
 ![image infos](../../assets/images/callout-dont-1.png)
 ![image infos](../../assets/images/callout-dont-2.png)
 ![image infos](../../assets/images/callout-dont-3.png)
-![image infos](../../assets/images/callout-dont-4.png)
 
 
 ### Variants
 {: .no_toc }
 Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
 <br>
+
 ![image infos](../../assets/images/callout-variants.png)
+
 
 | Variant      | Purpose           |
 |:-------------|:------------------|
