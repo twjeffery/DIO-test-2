@@ -10,7 +10,8 @@ last_modified_date: today
 The GOA design system is supported by the design system team. For help, questions, or feedback, contact the [design system team]()
 <br><br>
 
-The design system team uses slack to communicate with the DIO service teams.
+The design system team uses slack to communicate with the DIO service teams. You can find the different channels and their uses below:
+<br><br>
 
 | Channel name        | Description         |
 |:-------------|:------------------|
