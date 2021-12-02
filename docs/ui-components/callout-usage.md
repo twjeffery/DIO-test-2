@@ -92,6 +92,7 @@ Each calllout variant has a particular use case and its design communicates it's
 ### Anatomy and elements
 {: .no_toc }
 ![Callout anatomy](../assets/images/callout-anatomy.png "Callout anatomy")
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
 
 ## Behaviors
