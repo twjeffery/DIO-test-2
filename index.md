@@ -17,7 +17,7 @@ A resource for all service teams within the [Digital Innovation Office](https://
 ---
 
 ## What's new
-1 Dec 2021: We've released UI components react-v3.4.0-beta and angular-v2.0-beta. These releases contains new components within the React and angular frameworks.
+1 Dec 2021: We've released UI components react-v3.4-beta and angular-v2.0-beta. These releases contains new components within the React and angular frameworks.
 
 [Read the release notes to see what’s changed.](https://github.com/GovAlta/ui-components/releases)
 
