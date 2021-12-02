@@ -22,6 +22,7 @@ Callouts communicate important changes or facts within the body layout through a
 - TOC
 {:toc}
 
+##Live Demo
 ---
 <div>
 <iframe
@@ -76,6 +77,7 @@ Each calllout variant has a particular use case and its design communicates it's
 | Success          | Success callouts are used to inform the user of a positive status change to a performed action. |
 
 <br>
+<br>
 
 ## Positioning
 ---
@@ -84,13 +86,13 @@ Callout banners should be the full width of the content space they are placed in
 Callouts banners have a bottom margin of 28px.
 
 ![image infos](../../assets/images/callout-dont-4.png)
+<br>
 
-
-## Anatomy and elements
+## Anatomy
 ---
 ![image infos](../../assets/images/callout-anatomy.png)
 
----
+<br>
 
 ## Feedback
 ---
