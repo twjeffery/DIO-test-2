@@ -19,7 +19,7 @@ A resource for all service teams within the [Digital Innovation Office](https://
 ## What's new
 **Nov 26 2021:** Information about what we've released. A short description of what this release contains and how to access.
 
-[Read the release notes to see what’s changed.]()
+[Read the release notes to see what’s changed.](https://github.com/GovAlta/ui-components/releases)
 
 [Sign up to get update emails about the Design System.]()
 
