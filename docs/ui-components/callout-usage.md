@@ -95,7 +95,8 @@ Callouts banners have a bottom margin of 28px.
 ![image infos](../../assets/images/callout-anatomy.png)
 
 <br>
+<br>
 
 ## Feedback
 ---
-Help improve this page. To help make sure that this page is useful, relevant and up to date, you can [share your research or feedback on Github](#) or propose a change below using _Edit this page._ [How to propose changes in Github](#)
+Help improve this page. To help make sure that this page is useful, relevant and up to date, you can share your research or feedback on [Github](https://github.com/GovAlta/ui-components/issues/158) or propose a change below using _Edit this page._
