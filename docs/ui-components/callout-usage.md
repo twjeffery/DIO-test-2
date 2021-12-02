@@ -23,9 +23,6 @@ Callouts communicate important changes or facts within the body layout through a
 {:toc}
 
 ---
-
-## Live demo
----
 <div>
 <iframe
   width="100%"
@@ -58,6 +55,9 @@ A callout banner must be relevant to the header or section to which it correspon
 #### Container Text
 {: .no_toc }
 At minimum, body text is required. There may be an optional header.
+
+![image infos](../../assets/images/content-do.png)
+
 
 ### Positioning
 {: .no_toc }
