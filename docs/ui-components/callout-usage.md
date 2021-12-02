@@ -61,7 +61,7 @@ At minimum, body text is required. There may be an optional header.
 ![image infos](../../assets/images/callout-dont-2.png)
 ![image infos](../../assets/images/callout-dont-3.png)
 
-
+<br><br>
 ### Variants
 {: .no_toc }
 Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
@@ -78,7 +78,7 @@ Each calllout variant has a particular use case and its design communicates it's
 | Emergency           | Emergency callouts are used to alert the user to only the most important pieces of information. They can also be used to alert the user to system errors. |
 | Success          | Success callouts are used to inform the user of a positive status change to a performed action. |
 
-
+<br>
 
 ### Positioning
 {: .no_toc }
