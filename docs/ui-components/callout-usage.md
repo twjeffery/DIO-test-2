@@ -43,16 +43,13 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 
 <br>
 
-## Formatting
+## Content
 ---
-
-### Content
-{: .no_toc }
 Callout banners should communicate one piece of crucial information pertaining to the topic.
 
 A callout banner must be relevant to the header or section to which it corresponds. In terms of importance within the section, it takes priority over any other paragraph under the header. If there is additional information that is not in the corresponding section, or is on another page, do use a link.
 
-#### Container Text
+### Container Text
 {: .no_toc }
 At minimum, body text is required. There may be an optional header.
 
@@ -62,8 +59,8 @@ At minimum, body text is required. There may be an optional header.
 ![image infos](../../assets/images/callout-dont-3.png)
 
 <br><br>
-### Variants
-{: .no_toc }
+## Variants
+---
 Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
 <br><br>
 
@@ -80,8 +77,8 @@ Each calllout variant has a particular use case and its design communicates it's
 
 <br>
 
-### Positioning
-{: .no_toc }
+## Positioning
+---
 Callout banners should be the full width of the content space they are placed in, with a maximum width of 700px.
 
 Callouts banners have a bottom margin of 28px.
@@ -89,8 +86,8 @@ Callouts banners have a bottom margin of 28px.
 ![image infos](../../assets/images/callout-dont-4.png)
 
 
-### Anatomy and elements
-{: .no_toc }
+## Anatomy and elements
+---
 ![image infos](../../assets/images/callout-anatomy.png)
 
 ---
