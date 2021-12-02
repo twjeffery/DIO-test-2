@@ -56,8 +56,8 @@ A callout banner must be relevant to the header or section to which it correspon
 {: .no_toc }
 At minimum, body text is required. There may be an optional header.
 
-![image infos](../../assets/images/content-do.png)
-
+![image infos](../../assets/images/callout-do-1.png)
+![image infos](../../assets/images/callout-dont-1.png)
 
 ### Positioning
 {: .no_toc }
