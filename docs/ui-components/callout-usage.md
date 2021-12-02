@@ -94,8 +94,8 @@ Each calllout variant has a particular use case and its design communicates it's
 
 
 ![Callout anatomy](/assets/images/callout-anatomy.png)
-![image info](../assets/images/callout-anatomy.png)
-
+![image infos](../assets/images/callout-anatomy.png)
+![image infos](../../assets/images/callout-anatomy.png)
 
 
 ## Behaviors
