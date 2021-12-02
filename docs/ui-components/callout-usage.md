@@ -22,7 +22,8 @@ Callouts communicate important changes or facts within the body layout through a
 - TOC
 {:toc}
 
-##Live Demo
+<br><br>
+## Live Demo
 ---
 <div>
 <iframe
@@ -86,8 +87,9 @@ Callout banners should be the full width of the content space they are placed in
 Callouts banners have a bottom margin of 28px.
 
 ![image infos](../../assets/images/callout-dont-4.png)
-<br>
 
+<br>
+<br>
 ## Anatomy
 ---
 ![image infos](../../assets/images/callout-anatomy.png)
