@@ -50,7 +50,6 @@ In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 
 Interactive colours are solely used for hyperlinks such as links and button elements. In the event that a dark background is used, however, the hyperlinks will be white.
 
 Interactive colours are derived from tints of Alberta Blue.
-<br><br>
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
 |:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
