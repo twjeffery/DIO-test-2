@@ -35,13 +35,10 @@ There are three primary types of colour groups: layout, interactive, and status.
 
 ## Interactive
 
-| Color value    | Font color utility   | Background color utility |
-|:---------------|:---------------------|:-------------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-dk-000"></span> `grey-dk-000` | `.text-grey-dk-000` | `.bg-grey-dk-000` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-dk-100"></span> `grey-dk-100` | `.text-grey-dk-100` | `.bg-grey-dk-100` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-dk-200"></span> `grey-dk-200` | `.text-grey-dk-200` | `.bg-grey-dk-200` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-dk-250"></span> `grey-dk-250` | `.text-grey-dk-250` | `.bg-grey-dk-250` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-dk-300"></span> `grey-dk-300` | `.text-grey-dk-300` | `.bg-grey-dk-300` |
+| Colour  | Colour name   | Hex code | SCSS variable | Notes |
+|:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
+| ![#0070C4](../../assets/images/link.png) | Link | #0070C4 |  `$link` | Buttons and unvisited links. |
+| ![#004F84](../../assets/images/hover.png) | Hover | #004F84 |  `$hover` | Button and link hover state. |
 
 ## Status
 
