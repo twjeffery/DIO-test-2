@@ -37,11 +37,13 @@ Layout colours are derived from the GoA Corporate Identity colours.
 <br>
 ![Colour do and don't](../../assets/images/colour-do-and-dont.png)
 <br><br>
+
 ### Accessibility
 {: .no_toc }
 In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes, the following rules apply:
 1. All of the dark and primary colour backgrounds are accessible with white text.
 2. All of the mid-tones and light colour backgrounds are accessible with dark text.
+
 <br>
 ![Colour do and don't](../../assets/images/colour-do-dont-2.png)
 <br><br>
