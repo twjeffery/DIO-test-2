@@ -35,13 +35,13 @@ Callouts communicate important changes or facts within the body layout through a
 
 ### Card
 {: .no_toc }
-[Component name]()
+[Card]()
 
 ---
 
 ### Badge
 {: .no_toc }
-[Component name]()
+[Badge]()
 
 
 ---
