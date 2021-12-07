@@ -6,7 +6,7 @@ description: "Design system and other resources for service teams."
 permalink: /
 ---
 
-# DIO Resources
+# DIO Design system
 {: .fs-9 }
 
 Design system and other resources for all service teams within the [Digital Innovation Office](https://www.alberta.ca/alberta-digital-innovation-office.aspx)
