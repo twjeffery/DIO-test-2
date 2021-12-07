@@ -15,13 +15,16 @@ nav_order: 4
 {:toc}
 
 ---
-## Overview
 
 The colour palette is accessible and derived from the government brand standards.
 
 There are three primary types of colour groups: layout, interactive, and status.
 
 ## Layout
+Grey and white should make up the majority of a website, with blue interspersed for contrast and visual interest. These layout colours are used for depth, hierarchy, and grouping.
+
+Layout colours are derived from the GoA Corporate Identity colours.
+
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
 |:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
@@ -31,14 +34,29 @@ There are three primary types of colour groups: layout, interactive, and status.
 | ![#333333](../../assets/images/black.png)  | Black | #333333 | `$black` | Text colour. |
 | ![#FFFFFF](../../assets/images/white.png)  | White | #FFFFFF | `$white` | Text on primary buttons, dark backgrounds. |
 
+![Colour do and don't](../../assets/images/colour-do-and-dont.png)
+
+### Accessibility
+{: .no_toc }
+In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes, the following rules apply:
+1. All of the dark and primary colour backgrounds are accessible with white text.
+2. All of the mid-tones and light colour backgrounds are accessible with dark text.
+
+![Colour do and don't](../../assets/images/colour-do-dont-2.png)
 
 
 ## Interactive
+
+Interactive colours are solely used for hyperlinks such as links and button elements. In the event that a dark background is used, however, the hyperlinks will be white.
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
 |:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
 | ![#0070C4](../../assets/images/link.png) | Link | #0070C4 |  `$link` | Buttons and unvisited links. |
 | ![#004F84](../../assets/images/hover.png) | Hover | #004F84 |  `$hover` | Button and link hover state. |
+
+### Accessibility
+{: .no_toc }
+Interactive colour text is accessible on white or light backgrounds In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes.
 
 ## Grey
 
@@ -51,9 +69,15 @@ There are three primary types of colour groups: layout, interactive, and status.
 
 ## Status
 
+There are four status colours, these colours are used exclusively for alert or callout boxes. Status colours are derived from official Provincial and Flag colours.
+
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
 |:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
 | ![#005DAA](../../assets/images/status-info.png) | Status-info | #005DAA |  `$status-info` | Information status. |
 | ![#00853F](../../assets/images/status-success.png) | Status-success | #00853F |  `$status-success` | Success status. |
 | ![#FEBA35](../../assets/images/status-warning.png) | Status-warning | #FEBA35 |  `$status-warning` | Warning status. |
 | ![#EC040B](../../assets/images/status-emergency.png) | Status-emergency | #EC040B |  `$status-emergency` | Emergency status. |
+
+### Accessibility
+{: .no_toc }
+All text on status backgrounds with the exception of yellow must be white, in accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes.
