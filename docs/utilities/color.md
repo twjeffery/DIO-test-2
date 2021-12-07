@@ -31,7 +31,8 @@ There are three primary types of colour groups: layout, interactive, and status.
 | <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300"></span> `grey-lt-300` | `.text-grey-lt-300` | `.bg-grey-lt-300` |
 
 ![#00B0F0](https://placehold.it/150x40/00B0F0/FFFFFF?text=00B0F0)
-
+![#00B0F0](https://commons.wikimedia.org/wiki/File:Primary-blue.png)
+https://commons.wikimedia.org/wiki/File:Primary-blue.png
 
 ## Interactive
 
