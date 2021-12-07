@@ -24,7 +24,7 @@ There are three primary types of colour groups: layout, interactive, and status.
 Grey and white should make up the majority of a website, with blue interspersed for contrast and visual interest. These layout colours are used for depth, hierarchy, and grouping.
 
 Layout colours are derived from the GoA Corporate Identity colours.
-<br>
+<br><br>
 
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
