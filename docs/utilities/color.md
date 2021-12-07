@@ -39,6 +39,7 @@ Layout colours are derived from the GoA Corporate Identity colours.
 ![Colour do and don't](../../assets/images/colour-do-and-dont.png)
 <br><br>
 
+
 ### Accessibility
 {: .no_toc }
 In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes, the following rules apply:
@@ -73,7 +74,7 @@ Interactive colour text is accessible on white or light backgrounds In accordanc
 
 <br>
 
-
+---
 ## Grey
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
