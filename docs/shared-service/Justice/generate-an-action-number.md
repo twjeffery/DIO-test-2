@@ -16,7 +16,6 @@ This shared-service generates an action number for your service to associate wit
 
 ---
 **Tags:** Justice Digital | Action number | API | Civil action
-{: .text-grey-lt-300 }
 
 <br>
 
