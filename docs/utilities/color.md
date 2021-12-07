@@ -36,7 +36,7 @@ Layout colours are derived from the GoA Corporate Identity colours.
 
 <br>
 ![Colour do and don't](../../assets/images/colour-do-and-dont.png)
-<br>
+<br><br>
 ### Accessibility
 {: .no_toc }
 In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes, the following rules apply:
@@ -44,7 +44,7 @@ In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 
 2. All of the mid-tones and light colour backgrounds are accessible with dark text.
 <br>
 ![Colour do and don't](../../assets/images/colour-do-dont-2.png)
-<br>
+<br><br>
 
 ## Interactive
 
@@ -57,6 +57,7 @@ Interactive colours are derived from tints of Alberta Blue.
 | ![#0070C4](../../assets/images/link.png) | Link | #0070C4 |  `$link` | Buttons and unvisited links. |
 | ![#004F84](../../assets/images/hover.png) | Hover | #004F84 |  `$hover` | Button and link hover state. |
 
+<br>
 ![Interactive do](../../assets/images/interactive-do-1.png)
 ![Interactive do](../../assets/images/interactive-do-2.png)
 ![Interactive don't](../../assets/images/interactive-dont-1.png)
@@ -65,6 +66,7 @@ Interactive colours are derived from tints of Alberta Blue.
 ### Accessibility
 {: .no_toc }
 Interactive colour text is accessible on white or light backgrounds In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes.
+
 <br>
 ## Grey
 
@@ -87,7 +89,7 @@ There are four status colours, these colours are used exclusively for alert or c
 | ![#FEBA35](../../assets/images/status-warning.png) | Status-warning | #FEBA35 |  `$status-warning` | Warning status. |
 | ![#EC040B](../../assets/images/status-emergency.png) | Status-emergency | #EC040B |  `$status-emergency` | Emergency status. |
 
-<br>
+<br><br>
 
 ![Status do](../../assets/images/status-do-1.png)
 ![Status don't](../../assets/images/status-dont-1.png)
