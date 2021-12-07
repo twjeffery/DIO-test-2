@@ -72,7 +72,7 @@ Interactive colours are derived from tints of Alberta Blue.
 Interactive colour text is accessible on white or light backgrounds In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes.
 
 <br>
----
+
 
 ## Grey
 
@@ -84,7 +84,7 @@ Interactive colour text is accessible on white or light backgrounds In accordanc
 | ![#F1F1F1](../../assets/images/light-grey.png) | Light-grey | #F1F1F1 |  `$light-grey` | Light background. |
 
 <br>
----
+
 
 ## Status
 
