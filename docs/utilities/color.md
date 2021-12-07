@@ -51,6 +51,7 @@ Interactive colours are solely used for hyperlinks such as links and button elem
 
 Interactive colours are derived from tints of Alberta Blue.
 <br><br>
+
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
 |:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
 | ![#0070C4](../../assets/images/link.png) | Link | #0070C4 |  `$link` | Buttons and unvisited links. |
