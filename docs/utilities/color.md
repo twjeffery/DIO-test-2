@@ -49,6 +49,7 @@ In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 
 ![Colour do and don't](../../assets/images/colour-do-dont-2.png)
 <br><br>
 
+---
 ## Interactive
 
 Interactive colours are solely used for hyperlinks such as links and button elements. In the event that a dark background is used, however, the hyperlinks will be white.
@@ -71,6 +72,7 @@ Interactive colours are derived from tints of Alberta Blue.
 Interactive colour text is accessible on white or light backgrounds In accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes.
 
 <br>
+---
 ## Grey
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
@@ -81,6 +83,7 @@ Interactive colour text is accessible on white or light backgrounds In accordanc
 | ![#F1F1F1](../../assets/images/light-grey.png) | Light-grey | #F1F1F1 |  `$light-grey` | Light background. |
 
 <br>
+---
 ## Status
 
 
