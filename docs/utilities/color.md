@@ -40,47 +40,20 @@ There are three primary types of colour groups: layout, interactive, and status.
 | ![#0070C4](../../assets/images/link.png) | Link | #0070C4 |  `$link` | Buttons and unvisited links. |
 | ![#004F84](../../assets/images/hover.png) | Hover | #004F84 |  `$hover` | Button and link hover state. |
 
+## Grey
+
+| Colour  | Colour name   | Hex code | SCSS variable | Notes |
+|:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
+| ![#666666](../../assets/images/dark-grey.png) | Dark-grey | #666666 |  `$dark-grey` | Secondary text. |
+| ![#ADADAD](../../assets/images/grey.png) | Grey | #ADADAD |  `$grey` | Grey. |
+| ![#DCDCDC](../../assets/images/mid-light-grey.png) | Mid-light-grey | #DCDCDC |  `$mid-light-grey` | Borders. |
+| ![#F1F1F1](../../assets/images/light-grey.png) | Light-grey | #F1F1F1 |  `$light-grey` | Light background. |
+
 ## Status
 
-| Color value    | Font color utility   | Background color utility |
-|:---------------|:---------------------|:-------------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-purple-000"></span> `purple-000` | `.text-purple-000` | `.bg-purple-000` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-purple-100"></span> `purple-100` | `.text-purple-100` | `.bg-purple-100` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-purple-200"></span> `purple-200` | `.text-purple-200` | `.bg-purple-200` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-purple-300"></span> `purple-300` | `.text-purple-300` | `.bg-purple-300` |
-
-## Blues
-
-| Color value    | Font color utility   | Background color utility |
-|:---------------|:---------------------|:-------------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-blue-000"></span> `blue-000` | `.text-blue-000` | `.bg-blue-000` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-blue-100"></span> `blue-100` | `.text-blue-100` | `.bg-blue-100` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-blue-200"></span> `blue-200` | `.text-blue-200` | `.bg-blue-200` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-blue-300"></span> `blue-300` | `.text-blue-300` | `.bg-blue-300` |
-
-## Greens
-
-| Color value    | Font color utility   | Background color utility |
-|:---------------|:---------------------|:-------------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-green-000"></span> `green-000` | `.text-green-000` | `.bg-green-000` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-green-100"></span> `green-100` | `.text-green-100` | `.bg-green-100` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-green-200"></span> `green-200` | `.text-green-200` | `.bg-green-200` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-green-300"></span> `green-300` | `.text-green-300` | `.bg-green-300` |
-
-## Yellows
-
-| Color value    | Font color utility   | Background color utility |
-|:---------------|:---------------------|:-------------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-yellow-000"></span> `yellow-000` | `.text-yellow-000` | `.bg-yellow-000` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-yellow-100"></span> `yellow-100` | `.text-yellow-100` | `.bg-yellow-100` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-yellow-200"></span> `yellow-200` | `.text-yellow-200` | `.bg-yellow-200` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-yellow-300"></span> `yellow-300` | `.text-yellow-300` | `.bg-yellow-300` |
-
-## Reds
-
-| Color value    | Font color utility   | Background color utility |
-|:---------------|:---------------------|:-------------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-red-000"></span> `red-000` | `.text-red-000` | `.bg-red-000` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-red-100"></span> `red-100` | `.text-red-100` | `.bg-red-100` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-red-200"></span> `red-200` | `.text-red-200` | `.bg-red-200` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-red-300"></span> `red-300` | `.text-red-300` | `.bg-red-300` |
+| Colour  | Colour name   | Hex code | SCSS variable | Notes |
+|:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
+| ![#005DAA](../../assets/images/status-info.png) | Status-info | #005DAA |  `$status-info` | Information status. |
+| ![#00853F](../../assets/images/status-success.png) | Status-success | #00853F |  `$status-success` | Success status. |
+| ![#FEBA35](../../assets/images/status-warning.png) | Status-warning | #FEBA35 |  `$status-warning` | Warning status. |
+| ![#EC040B](../../assets/images/status-emergency.png) | Status-emergency | #EC040B |  `$status-emergency` | Emergency status. |
