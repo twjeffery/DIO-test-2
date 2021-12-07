@@ -24,6 +24,7 @@ There are three primary types of colour groups: layout, interactive, and status.
 Grey and white should make up the majority of a website, with blue interspersed for contrast and visual interest. These layout colours are used for depth, hierarchy, and grouping.
 
 Layout colours are derived from the GoA Corporate Identity colours.
+<br>
 
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
@@ -81,11 +82,11 @@ Interactive colour text is accessible on white or light backgrounds In accordanc
 
 <br>
 ## Status
-<br>
+
 
 There are four status colours, these colours are used exclusively for alert or callout boxes. Status colours are derived from official Provincial and Flag colours.
 <br>
-
+<br>
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
 |:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
