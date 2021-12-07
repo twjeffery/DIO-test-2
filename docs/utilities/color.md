@@ -81,8 +81,11 @@ Interactive colour text is accessible on white or light backgrounds In accordanc
 
 <br>
 ## Status
+<br>
 
 There are four status colours, these colours are used exclusively for alert or callout boxes. Status colours are derived from official Provincial and Flag colours.
+<br>
+
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
 |:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
@@ -91,12 +94,12 @@ There are four status colours, these colours are used exclusively for alert or c
 | ![#FEBA35](../../assets/images/status-warning.png) | Status-warning | #FEBA35 |  `$status-warning` | Warning status. |
 | ![#EC040B](../../assets/images/status-emergency.png) | Status-emergency | #EC040B |  `$status-emergency` | Emergency status. |
 
-<br><br>
+<br>
 
 ![Status do](../../assets/images/status-do-1.png)
 ![Status don't](../../assets/images/status-dont-1.png)
 
-
+<br>
 ### Accessibility
 {: .no_toc }
 All text on status backgrounds with the exception of yellow must be white, in accordance with WCAG 2.0 standards, in order to maintain a contrast ratio of 4.5 for all text sizes.
