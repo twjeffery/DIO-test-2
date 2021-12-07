@@ -24,7 +24,7 @@ There are three primary types of colour groups: layout, interactive, and status.
 Grey and white should make up the majority of a website, with blue interspersed for contrast and visual interest. These layout colours are used for depth, hierarchy, and grouping.
 
 Layout colours are derived from the GoA Corporate Identity colours.
-<br>
+
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
 |:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
@@ -33,6 +33,7 @@ Layout colours are derived from the GoA Corporate Identity colours.
 | ![#C8EEFA](../../assets/images/light-blue.png)  | Light-blue | #C8EEFA | `$light-blue` | Light brand colour. |
 | ![#333333](../../assets/images/black.png)  | Black | #333333 | `$black` | Text colour. |
 | ![#FFFFFF](../../assets/images/white.png)  | White | #FFFFFF | `$white` | Text on primary buttons, dark backgrounds. |
+
 <br>
 ![Colour do and don't](../../assets/images/colour-do-and-dont.png)
 <br>
