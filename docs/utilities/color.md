@@ -86,6 +86,7 @@ There are four status colours, these colours are used exclusively for alert or c
 | ![#00853F](../../assets/images/status-success.png) | Status-success | #00853F |  `$status-success` | Success status. |
 | ![#FEBA35](../../assets/images/status-warning.png) | Status-warning | #FEBA35 |  `$status-warning` | Warning status. |
 | ![#EC040B](../../assets/images/status-emergency.png) | Status-emergency | #EC040B |  `$status-emergency` | Emergency status. |
+
 <br>
 
 ![Status do](../../assets/images/status-do-1.png)
