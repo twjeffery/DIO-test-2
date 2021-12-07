@@ -25,10 +25,11 @@ There are three primary types of colour groups: layout, interactive, and status.
 
 | Colour  | Colour name   | Hex code | SCSS variable | Notes |
 |:---------------|:---------------------|:-------------------------|:-------------------------|:-------------------------|
-| ![#0081A2](../../assets/images/primary-blue.png) | Primary-blue | #0081A2 |  `$Primary-blue` | Default brand colour. |
-| ![#005072](../../assets/images/dark-blue.png)  | Dark-blue | #005072 | `$dark-blue` | Dark brand colour |
-| <img src="../../assets/images/primary-blue.png" width="200">  | `.text-grey-lt-200` | `.bg-grey-lt-200` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300"></span> `grey-lt-300` | `.text-grey-lt-300` | `.bg-grey-lt-300` |
+| ![#0081A2](../../assets/images/primary-blue.png) | Primary-blue | #0081A2 |  `$primary-blue` | Default brand colour. |
+| ![#005072](../../assets/images/dark-blue.png)  | Dark-blue | #005072 | `$dark-blue` | Dark brand colour. |
+| ![#C8EEFA](../../assets/images/light-blue.png)  | Light-blue | #C8EEFA | `$light-blue` | Light brand colour. |
+| ![#333333](../../assets/images/black.png)  | Black | #333333 | `$black` | Text colour. |
+| ![#FFFFFF](../../assets/images/white.png)  | White | #FFFFFF | `$white` | Text on primary buttons, dark backgrounds. |
 
 
 
