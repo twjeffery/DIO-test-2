@@ -5,7 +5,7 @@ parent: Guidelines
 nav_order: 4
 ---
 
-# Color
+# Colors
 {: .no_toc }
 
 The colour palette is accessible and derived from the government brand standards.
