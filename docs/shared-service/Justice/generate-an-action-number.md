@@ -21,7 +21,7 @@ This shared-service generates an action number for your service to associate wit
   <summary>
     On this page
   </summary>
-- TOC
+TOC
 {:toc}
 ---
 
