@@ -7,13 +7,13 @@ permalink: /
 nav_exclude: true
 ---
 
-# DIO Design system
+# Design system, common services, and support for service teams.
 {: .fs-9 }
 
 Use these resource to make your service consistent with the GOA. Learn from the research and experience of other service teams and avoid repeating work that’s already been done.
 {: .fs-6 .fw-300 }
 
-[Get started](https://twjeffery.github.io/DIO-test-2/docs/get-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 
 ---
 
