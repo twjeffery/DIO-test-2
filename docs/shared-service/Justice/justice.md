@@ -24,24 +24,19 @@ Generates an action number for your service to associate with a court action.
 A directory to look up contact information for lawyers and law firms to use in your service.
 
 ## Look up details about a civil action
-'''
-civil-actions-api
-'''
+`civil-actions-api`
 Retrieve information about actions entered into the Civil and Sheriff Information system (CASES).
+<br>
 
 ---
-<br><br>
-### In Development
+
+### In development
 ## Find a court location
-'''
-in development
-'''
+`in development`
 Help your users find a court location.
 
 ## Look up information for Judges, Justices, Masters, and Judicial assistants.
-'''
-court-personnel-api
-'''
+`court-personnel-api`
 A directory to look up meta data or contact information regarding Justice, Judge, or Justice Assistants (JA) to use in your service.
 
 ---
