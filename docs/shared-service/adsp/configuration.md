@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Configuration
-parent: Shared services
+parent: ADSP
+grand_parent: Shared services
 nav_order: 3
 ---
 

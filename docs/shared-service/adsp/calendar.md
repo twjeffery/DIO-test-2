@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Calendar
-parent: Shared services
+parent: ADSP
+grand_parent: Shared services
 nav_order: 2
 ---
 

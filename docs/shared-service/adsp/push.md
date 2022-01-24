@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Push
-parent: Shared services
+parent: ADSP
+grand_parent: Shared services
 nav_order: 13
 ---
 
-# Push 
+# Push
 {: .no_toc }
 
 ## On this page

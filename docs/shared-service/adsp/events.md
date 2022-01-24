@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Events
-parent: Shared services
+parent: ADSP
+grand_parent: Shared services
 nav_order: 4
 ---
 
