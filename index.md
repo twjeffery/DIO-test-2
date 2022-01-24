@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Design System
 nav_order: 1
 description: "Design system and other resources for service teams."
 permalink: /
