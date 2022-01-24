@@ -9,7 +9,7 @@ nav_order: 1
 # Generate an action number
 {: .no_toc .mt-8 }
 `action-number-api`
-<br>
+{: .mt-6 }
 This shared-service generates an action number for your service to associate with a court action. The action number generator allows you to maintain a correct sequence for all action numbers created.
 <br><br>
 
