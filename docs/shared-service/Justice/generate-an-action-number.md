@@ -7,10 +7,12 @@ nav_order: 1
 ---
 
 # Generate an action number
-{: .no_toc .mt-4 }
+{: .no_toc .mt-8 }
+`action-number-api`
+<br>
 This shared-service generates an action number for your service to associate with a court action. The action number generator allows you to maintain a correct sequence for all action numbers created.
 <br><br>
-{: .fs-6 .fw-300 }
+
 
 
 [Create a test account](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } or [contact the justice platform team for more information](#)
