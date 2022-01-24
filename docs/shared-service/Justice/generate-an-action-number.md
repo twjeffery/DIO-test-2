@@ -3,7 +3,7 @@ layout: default
 title: Generate an action number
 parent: Justice
 grand_parent: Shared services
-nav_order: 8
+nav_order: 1
 ---
 # Generate an action number
 {: .no_toc }

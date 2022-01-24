@@ -3,7 +3,7 @@ layout: default
 title: Look up contact information for lawyers and law firms
 parent: Justice
 grand_parent: Shared services
-nav_order: 10
+nav_order: 2
 ---
 
 # Look up contact information for lawyers and law firms

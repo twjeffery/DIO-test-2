@@ -3,7 +3,7 @@ layout: default
 title: Look up details about a civil action
 parent: Justice
 grand_parent: Shared services
-nav_order: 11
+nav_order: 3
 ---
 
 # Look up details about a civil action
