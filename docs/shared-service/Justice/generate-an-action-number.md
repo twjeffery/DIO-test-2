@@ -26,7 +26,7 @@ This shared-service generates an action number for your service to associate wit
 ---
 
 ## Background
-An [Action Number](https://twjeffery.github.io/DIO-test-2/docs/get-started/glossary/#:~:text=Area-,Action%20number,-An%20Action%20Number) is a business key that is used to identify actions across all tracks in the Courts.
+An [Action Number](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Area-,Action%20number,-An%20Action%20Number) is a business key that is used to identify actions across all tracks in the Courts.
 
 Action numbers are commonly a manual process, using paper and stamps. This service generates Action numbers automatically, automating the manual process and saving time, while eliminating duplicates of action numbers.
 
