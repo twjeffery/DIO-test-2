@@ -18,14 +18,10 @@ This shared-service generates an action number for your service to associate wit
 [Create a test account](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } or [contact the justice platform team for more information](#)
 
 ---
-<details open markdown="block">
   <summary>
     On this page
   </summary>
-  {: .text-delta }
-- TOC
 {:toc}
-</details>
 ---
 
 ## Background
@@ -132,7 +128,7 @@ Images if relevant of interface or UI
 
 ---
 
-## Support and contribution
+## Support
 
 ### Need help?
 {: .no_toc }
