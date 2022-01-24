@@ -17,7 +17,7 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 ## [Generate an action number](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/generate-an-action-number/)
 `action-number-api`
-{: .mb-2 }
+{: .mb-1 }
 Generates an action number for your service to associate with a court action.
 
 
