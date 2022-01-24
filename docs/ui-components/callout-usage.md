@@ -3,7 +3,7 @@ layout: default
 title: Usage
 parent: Callout
 grand_parent: Components
-nav_order: 1
+nav_exclude: true
 last_modified_date: today
 ---
 

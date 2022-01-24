@@ -3,7 +3,7 @@ layout: default
 title: Code
 parent: Callout
 grand_parent: Components
-nav_order: 2
+nav_exclude: true
 ---
 
 
