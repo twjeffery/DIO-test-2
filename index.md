@@ -27,27 +27,11 @@ Use these resource to make your service consistent with the GOA. Learn from the 
 
 ---
 
-## Guidelines
+## Design system
 
 Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
 
 [Browse guidelines](https://twjeffery.github.io/DIO-test-2/docs/guidelines)
-
----
-
-## Components
-
-Components are reusable parts of the user interface that have been made to support a variety of applications. You can use individual components in many different patterns and contexts.
-
-[Browse components](https://twjeffery.github.io/DIO-test-2/docs/components)
-
----
-
-## Patterns
-
-Patterns are larger tasks and flows that are supported by a group of components. You can use many different components in different patterns and contexts.
-
-[Browse patterns](https://twjeffery.github.io/DIO-test-2/docs/patterns)
 
 ---
 
@@ -59,6 +43,6 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 ---
 
-## Contributing
+## Support
 
 To contribute to the design system, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in our [GitHub discussions](https://github.com/GovAlta/ui-components/discussions).
