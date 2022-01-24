@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Guidelines
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: docs/guidelines
-parent: Design System
 ---
 
 # Guidelines
