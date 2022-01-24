@@ -7,7 +7,7 @@ has_children: true
 permalink: /
 ---
 
-# DIO Design system
+# DDI Design system
 {: .fs-9 }
 
 Design system and other resources for all service teams.
@@ -48,14 +48,6 @@ Components are reusable parts of the user interface that have been made to suppo
 Patterns are larger tasks and flows that are supported by a group of components. You can use many different components in different patterns and contexts.
 
 [Browse patterns](https://twjeffery.github.io/DIO-test-2/docs/patterns)
-
----
-
-## Shared services
-
-Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
-
-[Browse shared services](https://twjeffery.github.io/DIO-test-2/docs/shared-services)
 
 ---
 
