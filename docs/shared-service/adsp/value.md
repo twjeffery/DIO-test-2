@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Value
-parent: ADSP
+parent: Alberta Digital Service Platform
 grand_parent: Shared services
 nav_order: 17
 ---

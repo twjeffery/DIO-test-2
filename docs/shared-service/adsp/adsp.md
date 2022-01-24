@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ADSP
+title: Alberta Digital Service Platform
 nav_order: 1
 has_children: true
-permalink: /docs/shared-services
+permalink: /docs/shared-services/adsp
 parent: Shared services
 ---
 

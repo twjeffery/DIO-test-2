@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Forms
-parent: ADSP
+parent: Alberta Digital Service Platform
 grand_parent: Shared services
 nav_order: 6
 ---
