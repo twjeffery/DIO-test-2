@@ -5,8 +5,9 @@ parent: Justice
 grand_parent: Shared services
 nav_order: 1
 ---
+
 # Generate an action number
-{: .no_toc }
+{: .no_toc .mt-4 }
 This shared-service generates an action number for your service to associate with a court action. The action number generator allows you to maintain a correct sequence for all action numbers created.
 <br><br>
 {: .fs-6 .fw-300 }
@@ -15,11 +16,6 @@ This shared-service generates an action number for your service to associate wit
 [Create a test account](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } or [contact the justice platform team for more information](#)
 
 ---
-**Tags:** Justice Digital | Action number | API | Civil action
-
-<br>
-
-
 <details open markdown="block">
   <summary>
     On this page
