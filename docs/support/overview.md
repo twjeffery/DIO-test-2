@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Support
-parent: Design system
 nav_order: 3
 last_modified_date: today
 has_children: true
