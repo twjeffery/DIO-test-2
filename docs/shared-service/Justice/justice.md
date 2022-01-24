@@ -14,17 +14,13 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 ---
 
-## Generate an action number
-```
-action-number-api
-```
+[## Generate an action number](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/generate-an-action-number/)
+`action-number-api`
 Generates an action number for your service to associate with a court action.
 
 
 ## Look up contact information for lawyers and law firms
-```
-law-society-api
-```
+`law-society-api`
 A directory to look up contact information for lawyers and law firms to use in your service.
 
 ## Look up details about a civil action
