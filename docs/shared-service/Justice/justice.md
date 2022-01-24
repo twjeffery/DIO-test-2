@@ -44,5 +44,3 @@ Help your users find a court location.
 `court-personnel-api`
 {: .mb-1 }
 A directory to look up meta data or contact information regarding Justice, Judge, or Justice Assistants (JA) to use in your service.
-
----
