@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Support
-parent: Get started
-grand_parent: Design System
+parent: Design system
 nav_order: 3
 last_modified_date: today
+has_children: true
 ---
 
 # Support
+
 The GOA design system is supported by the design system team. For help, questions, or feedback, contact the [design system team]()
 <br><br>
 

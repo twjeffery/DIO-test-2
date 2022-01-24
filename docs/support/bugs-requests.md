@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Contribution
-parent: Get started
+title: Bugs and requests
+parent: Support
 grand_parent: Design System
-nav_order: 4
+nav_order: 2
 last_modified_date: today
 ---
 
 # Contribution
 
-Outline of contribution process.
-<br><br>
 [For more information, see documentation on confluence]()
