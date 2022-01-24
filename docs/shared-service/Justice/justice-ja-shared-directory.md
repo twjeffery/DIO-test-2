@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Justice/JA shared directory
+title: Look up information for Judges, Justices, Masters, and Judicial assistants
 parent: Justice
 grand_parent: Shared services
 nav_order: 9
