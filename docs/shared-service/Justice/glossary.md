@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Glossary
-parent: Get started
-grand_parent: Design System
+parent: Justice
+grand_parent: Shared services
 nav_order: 5
 last_modified_date: today
 ---
