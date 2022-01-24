@@ -3,8 +3,7 @@ layout: default
 title: Design System
 nav_order: 1
 description: "Design system and other resources for service teams."
-permalink: /design-system
-has_children: true
+permalink: /
 ---
 
 # DIO Design system
