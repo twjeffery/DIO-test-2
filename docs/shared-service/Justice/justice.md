@@ -5,6 +5,7 @@ nav_order: 7
 has_children: true
 permalink: /docs/shared-services/justice
 parent: Shared services
+has_toc: false
 ---
 
 # Shared services - Justice Digital
@@ -14,8 +15,10 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 ---
 
-[## Generate an action number](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/generate-an-action-number/)
+## [Generate an action number](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/generate-an-action-number/)
+<br>
 `action-number-api`
+<br>
 Generates an action number for your service to associate with a court action.
 
 
