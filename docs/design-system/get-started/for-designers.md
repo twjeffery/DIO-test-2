@@ -2,9 +2,10 @@
 layout: default
 title: For designers
 parent: Get started
-grand-parent: Design System
+grand_parent: Design System
 nav_order: 1
 last_modified_date: today
+
 ---
 
 # For Designers

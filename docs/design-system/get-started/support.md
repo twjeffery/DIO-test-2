@@ -2,6 +2,7 @@
 layout: default
 title: Support
 parent: Get started
+grand_parent: Design System
 nav_order: 3
 last_modified_date: today
 ---

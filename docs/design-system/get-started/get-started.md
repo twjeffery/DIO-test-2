@@ -5,6 +5,7 @@ nav_order: 2
 has_children: true
 permalink: /docs/get-started
 last_modified_date: today
+parent: Design System
 ---
 
 # Get started
