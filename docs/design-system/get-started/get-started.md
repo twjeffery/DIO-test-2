@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Get started
+parent: Design System
 nav_order: 2
 has_children: true
 permalink: /docs/get-started
