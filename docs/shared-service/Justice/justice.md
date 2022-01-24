@@ -40,7 +40,7 @@ Retrieve information about actions entered into the Civil and Sheriff Informatio
 {: .mb-1 }
 Help your users find a court location.
 
-## [Look up information for Judges, Justices, Masters, and Judicial assistants](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/justice-ja-shared-directory/)
+## [Look up information for court personnel](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/justice-ja-shared-directory/)
 `court-personnel-api`
 {: .mb-1 }
 A directory to look up meta data or contact information regarding Justice, Judge, or Justice Assistants (JA) to use in your service.
