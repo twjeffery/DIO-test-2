@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Justice
-nav_order: 2
+title: Shared services
+nav_order: 1
 has_children: true
-permalink: /docs/shared-services/justice
+permalink: /docs/shared-services
 parent: Shared services
 ---
 
