@@ -14,35 +14,35 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 ---
 
-# Generate an action number
-'''
+## Generate an action number
+```
 action-number-api
-'''
+```
 Generates an action number for your service to associate with a court action.
 
 
-# Look up contact information for lawyers and law firms
-'''
+## Look up contact information for lawyers and law firms
+```
 law-society-api
-'''
+```
 A directory to look up contact information for lawyers and law firms to use in your service.
 
-# Look up details about a civil action
+## Look up details about a civil action
 '''
 civil-actions-api
 '''
 Retrieve information about actions entered into the Civil and Sheriff Information system (CASES).
 
 ---
-
+<br><br>
 ### In Development
-# Find a court location
+## Find a court location
 '''
 in development
 '''
 Help your users find a court location.
 
-# Look up information for Judges, Justices, Masters, and Judicial assistants.
+## Look up information for Judges, Justices, Masters, and Judicial assistants.
 '''
 court-personnel-api
 '''
