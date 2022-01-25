@@ -152,16 +152,16 @@ just_the_docs:
 
 
 collections:
-  docs:
+  design_system:
     permalink: "/:collection/:path/"
     output: true
-  tutorials:
+  shared_services:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
+    design_system:
+      name: Design System
+    shared_services:
+      name: Shared services
