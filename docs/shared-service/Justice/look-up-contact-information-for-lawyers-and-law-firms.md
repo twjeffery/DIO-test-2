@@ -10,9 +10,7 @@ nav_order: 2
 {: .no_toc .mt-8 .mb-5}
 `law-society-api`
 {: .mt-2 .mb-5}
-The law society database is a directory to look up contact information for lawyers and law firms to use within your service. This micro-service provides authority for this information, to ensure that it is the same for all systems that need to use it.
-
-Used for identification to verify the identity of lawyers and delegate access to legal assistants and law students. Also used to associate law firm to specific lawyers.
+The law society database is a directory to look up information on lawyers and law firms to use within your service.
 
 [Swagger - API documentation](https://jdms-law-society-api-jdms-prod.os99.gov.ab.ca/swagger/index.html)      [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
 
@@ -30,6 +28,8 @@ There is an existing Information Sharing Agreement between the Provincial Court,
 - Providing access to court administration services
 - Scheduling court proceedings
 - Communicating information regarding court administration, judicial administration, and other matters of general importance to the legal profession.
+
+This micro-service provides an authority for this information to ensure that it is the same for all systems that need to use it.
 
 ---
 
