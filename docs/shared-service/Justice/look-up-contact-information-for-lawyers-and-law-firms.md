@@ -49,6 +49,7 @@ This service would not be relevant if you do not fall within the following:
 - Communicating information regarding court administration, judicial administration, and other matters of general importance to the legal profession.
 
 #### Privacy
+{: .no_toc}
 The Bar ID is information that is sensitive, and should not be public.
 
 ### How to access
