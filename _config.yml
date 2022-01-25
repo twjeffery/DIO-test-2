@@ -65,11 +65,11 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Design system":
-    - "https://twjeffery.github.io/DIO-test-2/docs/get-started/support/"
-  "Common services":
-    - "https://github.com/GovAlta/ui-components/discussions"
+    - "https://twjeffery.github.io/DIO-test-2/design-system"
+  "Shared services":
+    - "https://twjeffery.github.io/DIO-test-2/docs/shared-services"
   "Support":
-    - "https://github.com/GovAlta/ui-components"
+    - "https://twjeffery.github.io/DIO-test-2/docs/support/overview/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
