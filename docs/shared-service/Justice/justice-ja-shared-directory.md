@@ -38,6 +38,24 @@ Currently, meta data and contact information for Judges, Justices, Judicial assi
 {: .no_toc .mb-3}
 Use this service when you need any kind of Justice data. This data includes:
 
+Information on each Justice or Judge:
+- Name
+- Judge code (5-6 letter code, similar to an identification number)
+- Email
+- Level of court (provincial, QB, CoA)
+- Jurisdiction - (surrogate, bankruptcy, commercial list)
+- Supernumerary flag & date
+- Active (yes/no)
+- Retirement date
+- Appointment date
+- Location
+- PC it's the court locations; for QB it's the judicial centres
+- there is usually a resident location, and then locations where they might "serve"
+- Bilingual (yes/no)
+- Associated JA's (listed)
+- Justice training data
+-   Jury training (yes/no)
+-   Sexual assault training (yes/no)
 
 
 ### When not to use
