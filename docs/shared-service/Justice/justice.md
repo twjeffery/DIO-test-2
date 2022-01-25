@@ -40,7 +40,7 @@ In development
 {: .label .label-yellow .mt-6 }
 
 ## [Find a court location](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/find-a-court-location/)
-`in-development`
+`court-location-api`
 {: .mb-1 }
 Help your users find a court location.
 
