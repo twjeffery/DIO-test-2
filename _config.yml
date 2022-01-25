@@ -156,7 +156,7 @@ just_the_docs:
         - design-system/ui-components/badge.md
         - buttons.md
     docs2:
-      name: Common services
+      name: Shared services
       nav_exclude: false
       search_exclude: false
     docs3:
