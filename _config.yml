@@ -137,13 +137,14 @@ collections:
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
+
     # Reference the "docs" collection
     docs:
       # Give the collection a name
       name: Design system
       # Exclude the collection from the navigation
       # Supports true or false (default)
-      nav_exclude: false
+      nav_exclude: true
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
@@ -158,7 +159,7 @@ collections:
 
 just_the_docs:
   collections:
-    docs: 
+    docs:
       name: Design system
     docs2:
       name: Common services
