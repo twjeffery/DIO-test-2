@@ -10,9 +10,11 @@ nav_order: 2
 {: .no_toc .mt-8 .mb-5}
 `law-society-api`
 {: .mt-2 .mb-5}
-A directory to look up contact information for lawyers and law firms to use in your service.
+The law society database is a directory to look up contact information for lawyers and law firms to use within your service. This micro-service provides authority for this information, to ensure that it is the same for all systems that need to use it.
 
-[Swagger - API documentation](#)      [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
+Used for identification to verify the identity of lawyers and delegate access to legal assistants and law students. Also used to associate law firm to specific lawyers.
+
+[Swagger - API documentation](https://jdms-law-society-api-jdms-prod.os99.gov.ab.ca/swagger/index.html)      [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
 
 ---
 ## On this page
@@ -24,9 +26,10 @@ A directory to look up contact information for lawyers and law firms to use in y
 
 ## Background
 {: mb-3}
-An [Action Number](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Area-,Action%20number,-An%20Action%20Number) is a business key that is used to identify actions across all tracks in the Courts.
-
-Action numbers are commonly a manual process, using paper and stamps. This service generates Action numbers automatically, automating the manual process and saving time, while eliminating duplicates of action numbers.
+There is an existing Information Sharing Agreement between the Provincial Court, the Court of Queen’s Bench, the Ministry of Justice and Solicitor General, and the Law Society of Alberta for sharing for:
+- Providing access to court administration services
+- Scheduling court proceedings
+- Communicating information regarding court administration, judicial administration, and other matters of general importance to the legal profession.
 
 ---
 
@@ -34,27 +37,28 @@ Action numbers are commonly a manual process, using paper and stamps. This servi
 
 ### When to use
 {: .no_toc .mb-3}
-Use the action number generator if you need to create a new action number for your service.
+Use this service to verify the identity of lawyers and delegate access to legal assistants and law students. Also used to associate law firm to specific lawyers.
 
-You would use this micro-service when you need to reliably generate an action number for a certain [jurisdiction](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Justice-,Jurisdiction,-A%20jurisdiction%20is) and district or centre. The action number generator allows you to maintain a correct sequence for all action numbers created.
+Any application that uses lawyers and or legal assistants would benefit from this shared service.
 
 ### When not to use
 {: .no_toc .mb-3}
-This service only creates action numbers for civil actions in the Court of Queen's Bench. It is not currently available in other levels of Court.
+This service would not be relevant if you do not fall within the following:
+- Providing access to court administration services
+- Scheduling court proceedings
+- Communicating information regarding court administration, judicial administration, and other matters of general importance to the legal profession.
 
-### How it works
-{: .no_toc .mb-3}
-Based on the jurisdiction and district, it will look up the last generated value in the sequence, and increment that. It then returns that identifier and formats it based on the business rules relevant for that jurisdiction and district.
-
-The generator looks up the last action number, increments it, and returns the next one. Making sure there are no collisions.
+#### Privacy
+The Bar ID is information that is sensitive, and should not be public.
 
 ### How to access
 {: .no_toc .mb-3}
+
 #### Testing environment
 {: .no_toc .mb-2}
 Access the dev environment to try out and test this shared service within your context and to determine if it fills your need.
 
-[Try out and explore the API](#) (Link to Swagger page)
+[Try out and explore the API](https://jdms-law-society-api-jdms-prod.os99.gov.ab.ca/swagger/index.html)
 
 [Point to UAT endpoint](#)
 <br>
@@ -66,18 +70,6 @@ To request access to the production environment: email your request to <JSG.Plat
 ---
 
 ## Examples
-
-
-#### A Civil Action number explained:
-{: .no_toc }
-
-A [civil action](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Justice-,Civil%20action,-A%20civil%20action) number is made up of Year, district, and number.
-
-eg. Action Number 2103 123456 = (2021 Edmonton 123456)
-
-![image infos](../../../assets/images/action-number.png)
-
-See more [Action number rules and examples](https://goa-dio.atlassian.net/wiki/spaces/QFR/pages/1486356612/Architecture+Artifacts#Action-Numbers)
 
 ### How it’s used
 {: .no_toc .mb-3}
@@ -107,8 +99,6 @@ Helen Maze - Product owner
 
 ### Additional documentation
 {: .no_toc }
-[Action number formatting](https://goa-dio.atlassian.net/wiki/spaces/QFR/pages/1486356612/Architecture+Artifacts#Action-Numbers)
-
 
 ---
 
