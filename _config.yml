@@ -153,7 +153,10 @@ collections:
   docs:
     permalink: "/:collection/:path/"
     output: true
-  tutorials:
+  docs2:
+    permalink: "/:collection/:path/"
+    output: true
+  docs3:
     permalink: "/:collection/:path/"
     output: true
 
