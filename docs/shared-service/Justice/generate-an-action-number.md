@@ -12,7 +12,7 @@ nav_order: 1
 {: .mt-2 .mb-3 }
 This shared-service generates an action number for your service to associate with a court action. The action number generator allows you to maintain a correct sequence for all action numbers created.
 
-[Swagger](#) [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
+[Swagger - API documentation](#)   |   [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
 
 ---
   <summary>
