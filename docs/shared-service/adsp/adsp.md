@@ -5,6 +5,7 @@ nav_order: 1
 has_children: true
 permalink: /docs/shared-services/adsp
 parent: Shared services
+has_toc: false
 ---
 
 # Shared services
