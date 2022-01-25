@@ -9,6 +9,7 @@ has_toc: false
 ---
 
 # Shared services - Justice Digital
+{: .no_toc .mt-8 .mb-5}
 
 Solutions to common needs that services have, specific to Justice. Generate an action number, look up details about a civil action, and more.
 {: .fs-6 .fw-300 }
