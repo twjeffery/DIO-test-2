@@ -153,13 +153,10 @@ just_the_docs:
 
 collections:
   design_system:
-    permalink: "/:collection/:path/"
     output: true
   shared_services:
-    permalink: "/:collection/:path/"
     output: true
   support:
-    permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
