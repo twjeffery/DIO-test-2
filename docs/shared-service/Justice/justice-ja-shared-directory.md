@@ -16,7 +16,9 @@ In development
 
 Look up meta data or contact information regarding Justice, Judge, Justice Assistants (JA), or Masters at any point in your service.
 
-[Swagger - API documentation](#)      [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
+[Swagger - API documentation](#)
+{.mr-auto}      
+[Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
 
 ---
 ## On this page
