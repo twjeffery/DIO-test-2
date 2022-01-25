@@ -49,7 +49,7 @@ The generator looks up the last action number, increments it, and returns the ne
 ### How to access
 {: .no_toc .mb-2}
 #### Testing environment
-{: .no_toc }
+{: .no_toc .mb-1}
 Access the dev environment to try out and test this shared service within your context and to determine if it fills your need.
 
 [Try out and explore the API](#) (Link to Swagger page)
@@ -58,7 +58,7 @@ Access the dev environment to try out and test this shared service within your c
 <br><br>
 
 #### Production access
-{: .no_toc .mt-3}
+{: .no_toc .mb-1}
 To request access to the production environment: email your request to <JSG.PlatformSupport@gov.ab.ca>
 
 ---
@@ -73,12 +73,13 @@ A civil action number is made up of Year, district, and number.
 
 eg. Action Number 2103 123456 = (2021 Edmonton 123456)
 
-![image infos](../../assets/images/action-number.png)
+![image infos](../../../assets/images/action-number.png)
+
+See more [Action number rules and examples](https://goa-dio.atlassian.net/wiki/spaces/QFR/pages/1486356612/Architecture+Artifacts#Action-Numbers)
 
 ### How it’s used
 {: .no_toc }
-#### Who’s currently using it within their service?
-{: .no_toc }
+
 **Court case management digital service**
 
 Derek Osadiuk - Digital architect
