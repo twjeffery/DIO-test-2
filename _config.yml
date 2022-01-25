@@ -132,46 +132,17 @@ compress_html:
 # Define Jekyll collections
 collections:
   # Define a collection named "docs", its documents reside in the "_docs" directory
-  design_system:
+  docs:
     permalink: "/:collection/:path/"
     output: true
-
-  shared_services:
-    permalink: "/:collection/:path/"
-    output: true
-
-  support:
-    permalink: "/:collection/:path/"
-    output: true
-
 
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the "docs" collection
-    design_system:
+    docs:
       # Give the collection a name
-      name: Design System
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-
-    shared_services:
-      # Give the collection a name
-      name: Shared Services
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-
-    Support:
-      # Give the collection a name
-      name: Support
+      name: Documentation
       # Exclude the collection from the navigation
       # Supports true or false (default)
       nav_exclude: false
@@ -182,10 +153,13 @@ just_the_docs:
 
 collections:
   design_system:
+    permalink: "/:collection/:path/"
     output: true
   shared_services:
+    permalink: "/:collection/:path/"
     output: true
   support:
+    permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
