@@ -12,8 +12,6 @@ nav_order: 1
 {: .mt-2 .mb-3 }
 This shared-service generates an action number for your service to associate with a court action. The action number generator allows you to maintain a correct sequence for all action numbers created.
 
-<Swagger> <Health check>
-
 ---
   <summary>
     On this page
