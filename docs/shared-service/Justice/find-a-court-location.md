@@ -27,6 +27,8 @@ This shared-service helps your users find a court location.
 
 ## Background
 {: mb-3}
+Previously, there was no way to see all of the court information including all of the meta data for specific court locations.
+
 This API retrieves information for your service on:
 - Courts
 - Court IDs
@@ -34,7 +36,6 @@ This API retrieves information for your service on:
 - Courtrooms
 - Circuit courts
 
-Previously, there was no way to see all of the court information including all of the meta data for specific court locations.
 ---
 
 ## Using the shared service
