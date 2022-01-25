@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 # Generate an action number
-{: .no_toc .mt-8 .mb-2}
+{: .no_toc .mt-8 .mb-3}
 `action-number-api`
 {: .mt-2 .mb-3 }
 This shared-service generates an action number for your service to associate with a court action. The action number generator allows you to maintain a correct sequence for all action numbers created.
@@ -33,34 +33,34 @@ Action numbers are commonly a manual process, using paper and stamps. This servi
 ## Using the shared service
 
 ### When to use
-{: .no_toc .mb-2}
+{: .no_toc .mb-3}
 Use the action number generator if you need to create a new action number for your service.
 
 You would use this micro-service when you need to reliably generate an action number for a certain [jurisdiction](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Justice-,Jurisdiction,-A%20jurisdiction%20is) and district or centre. The action number generator allows you to maintain a correct sequence for all action numbers created.
 
 ### When not to use
-{: .no_toc .mb-2}
+{: .no_toc .mb-3}
 This service only creates action numbers for civil actions in the Court of Queen's Bench. It is not currently available in other levels of Court.
 
 ### How it works
-{: .no_toc .mb-2}
+{: .no_toc .mb-3}
 Based on the jurisdiction and district, it will look up the last generated value in the sequence, and increment that. It then returns that identifier and formats it based on the business rules relevant for that jurisdiction and district.
 
 The generator looks up the last action number, increments it, and returns the next one. Making sure there are no collisions.
 
 ### How to access
-{: .no_toc .mb-2}
+{: .no_toc .mb-3}
 #### Testing environment
-{: .no_toc .mb-1}
+{: .no_toc .mb-2}
 Access the dev environment to try out and test this shared service within your context and to determine if it fills your need.
 
 [Try out and explore the API](#) (Link to Swagger page)
 
 [Point to UAT endpoint](#)
-<br><br>
+<br>
 
 #### Production access
-{: .no_toc .mb-1}
+{: .no_toc .mb-2}
 To request access to the production environment: email your request to <JSG.PlatformSupport@gov.ab.ca>
 
 ---
@@ -90,7 +90,7 @@ Chrissy Parkinson - Product owner
 
 [A description of how the action number generator is used within the Court Case Management digital service.]
 
-<link, video, or images of application>
+[link, video, or images of application]
 
 **Filing digital service**
 
@@ -100,7 +100,7 @@ Helen Maze - Product owner
 
 [A description of how the action number generator is used within the Filing digital service.]
 
-<link, video, or images of application>
+[link, video, or images of application]
 
 
 ---
