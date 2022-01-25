@@ -21,7 +21,7 @@ This shared-service generates an action number for your service to associate wit
 ---
 
 ## Background
-{: mb-2}
+{: mb-3}
 An [Action Number](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Area-,Action%20number,-An%20Action%20Number) is a business key that is used to identify actions across all tracks in the Courts.
 
 Action numbers are commonly a manual process, using paper and stamps. This service generates Action numbers automatically, automating the manual process and saving time, while eliminating duplicates of action numbers.
@@ -31,42 +31,33 @@ Action numbers are commonly a manual process, using paper and stamps. This servi
 ## Using the shared service
 
 ### When to use
-{: .no_toc }
+{: .no_toc .mb-2}
 Use the action number generator if you need to create a new action number for your service.
 
 You would use this micro-service when you need to reliably generate an action number for a certain [jurisdiction](https://twjeffery.github.io/DIO-test-2/docs/get-started/glossary/#:~:text=Justice-,Jurisdiction,-A%20jurisdiction%20is) and district or centre. The action number generator allows you to maintain a correct sequence for all action numbers created.
 
 ### When not to use
-{: .no_toc }
+{: .no_toc .mb-2}
 This service only creates action numbers for civil actions in the Court of Queen's Bench. It is not currently available in other levels of Court.
 
 ### How it works
-{: .no_toc }
+{: .no_toc .mb-2}
 Based on the jurisdiction and district, it will look up the last generated value in the sequence, and increment that. It then returns that identifier and formats it based on the business rules relevant for that jurisdiction and district.
 
 The generator looks up the last action number, increments it, and returns the next one. Making sure there are no collisions.
 
 ### How to access
+{: .no_toc .mb-2}
+#### Testing environment
 {: .no_toc }
-#### Sandbox
-{: .no_toc }
-[access to the dev environment or sandbox to try out and test with, determine if it fills their need]
-
-(Point to UAT endpoint)
+Access the dev environment to try out and test this shared service within your context and to determine if it fills your need.
 
 Link to Swagger page to try out and explore the API.
+Point to UAT endpoint.
 
 #### Production access
 {: .no_toc }
-After testing out the API, here is how to request to get full access to the shared service:
-
-For production access, [intake process] (contact ______ to request access)
-
-#### Security
-{: .no_toc }
-Instructions on security (how is security being handled on this?)
-
-[Link to standards if relevant]
+To request access to the production environment: email your request to <JSG.PlatformSupport@gov.ab.ca>
 
 ---
 
