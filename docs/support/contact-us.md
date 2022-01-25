@@ -7,6 +7,6 @@ nav_order: 1
 last_modified_date: today
 ---
 
-# Contribution
+# Contact us
 
 [For more information, see documentation on confluence]()
