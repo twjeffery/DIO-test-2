@@ -8,8 +8,10 @@ nav_order: 3
 
 # Look up details about a civil action
 {: .no_toc .mt-8 .mb-5}
+
 `civil-actions-api`
 {: .mt-2 .mb-5}
+
 The Civil Actions API is intended to be a hub for retrieving information about actions entered into the Civil and Sheriff Information system (CASES). This includes information about documents, hearings, parties (plaintiffs, defendants, etc), activities and more.
 
 [Swagger - API documentation](https://jdms-law-society-api-jdms-prod.os99.gov.ab.ca/swagger/index.html)      [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
@@ -24,7 +26,7 @@ The Civil Actions API is intended to be a hub for retrieving information about a
 
 ## Background
 {: mb-3}
-CASES is a legacy system used by the court system that contains a list of: all documents filed in an action,  information about parties to the action, hearings, and the results of the hearings. 
+CASES is a legacy system used by the court system that contains a list of: all documents filed in an action,  information about parties to the action, hearings, and the results of the hearings.
 
 Each document or hearing has a unique identifier made up of 2-5 character code.
 

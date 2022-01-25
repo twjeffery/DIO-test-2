@@ -9,7 +9,7 @@ In development
 {: .label .label-yellow .mt-6}
 
 # Look up information for court personnel
-{: .no_toc .mt-2 .mb-5}
+{: .no_toc .mt-4 .mb-5}
 
 `court-personnel-api`
 {: .mt-2 .mb-5}

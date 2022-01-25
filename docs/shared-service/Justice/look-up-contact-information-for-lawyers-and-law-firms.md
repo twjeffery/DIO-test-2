@@ -8,8 +8,10 @@ nav_order: 2
 
 # Look up contact information for lawyers and law firms
 {: .no_toc .mt-8 .mb-5}
+
 `law-society-api`
 {: .mt-2 .mb-5}
+
 The law society database is a directory to look up information on lawyers and law firms to use within your service.
 
 [Swagger - API documentation](https://jdms-law-society-api-jdms-prod.os99.gov.ab.ca/swagger/index.html)      [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)

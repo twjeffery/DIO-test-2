@@ -9,7 +9,7 @@ In development
 {: .label .label-yellow .mt-6 }
 
 # Find a court location
-{: .no_toc .mt-2 .mb-5}
+{: .no_toc .mt-4 .mb-5}
 
 `court-locations-api`
 {: .mt-2 .mb-5}
