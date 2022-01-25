@@ -12,7 +12,7 @@ nav_order: 2
 {: .mt-2 .mb-5}
 A directory to look up contact information for lawyers and law firms to use in your service.
 
-[Swagger - API documentation](#)   |   [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
+[Swagger - API documentation](#)      [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
 
 ---
 ## On this page
