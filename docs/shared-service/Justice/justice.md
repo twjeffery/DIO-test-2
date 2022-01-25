@@ -16,7 +16,8 @@ Solutions to common needs that services have, specific to Justice. Generate an a
 
 ---
 
-### Live
+Live
+{: .label .label-green .mt-6 }
 ## [Generate an action number](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/generate-an-action-number/)
 `action-number-api`
 {: .mb-1 }
@@ -35,7 +36,9 @@ Retrieve information about actions entered into the Civil and Sheriff Informatio
 
 ---
 
-### In development
+In development
+{: .label .label-yellow .mt-6 }
+
 ## [Find a court location](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/find-a-court-location/)
 `in-development`
 {: .mb-1 }
