@@ -92,19 +92,6 @@ Ronald Garcia - Digital architect
 
 Helen Maze - Product owner
 
-#### Examples of use:
-{: .no_toc }
-**Repo**
-Link to repo
-
-**Live app**
-[Link to app in test env]
-
-[Link to other relevant things]
-
-[Explanation of how it’s helping within a context of a service]
-
-Images if relevant of interface or UI
 
 ---
 
@@ -112,28 +99,13 @@ Images if relevant of interface or UI
 {: .no_toc }
 [Action number formatting](https://goa-dio.atlassian.net/wiki/spaces/QFR/pages/1486356612/Architecture+Artifacts#Action-Numbers)
 
-[Any other documentation relevant in creating this service.]
-
----
-
-### Release notes
-{: .no_toc }
-[v1]
-
-[v2]
 
 ---
 
 ## Support
 
-### Need help?
+### Need help? Connect with us on Slack
 {: .no_toc }
-[Shared service owner?]
+[#jd-shared-services](https://justicedigital.slack.com/archives/C02UR7LPRDF) General information and discussion related to justice shared services including questions, new shared service proposals, contribution, and other requests.
 
-For technical help, contact the justice platform team [platform team contact information]
-
-### Want to contribute?
-{: .no_toc }
-These services are made by community contribution.
-
-[Contribution process]
+You can also email the justice platform team at <JSG.PlatformSupport@gov.ab.ca>
