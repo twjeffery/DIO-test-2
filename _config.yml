@@ -165,7 +165,7 @@ just_the_docs:
     docs:
       name: Design system
       order:
-        - badge.md
+        - docs/design-system/ui-components/badge.md
         - buttons.md
     docs2:
       name: Common services
