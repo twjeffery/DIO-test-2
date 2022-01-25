@@ -64,12 +64,12 @@ To request access to the production environment: email your request to <JSG.Plat
 ---
 
 ## Examples
-A [civil action](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Justice-,Civil%20action,-A%20civil%20action) number is made up of Year, district, and number.
+
 
 #### A Civil Action number explained:
 {: .no_toc }
 
-A civil action number is made up of Year, district, and number.
+A [civil action](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Justice-,Civil%20action,-A%20civil%20action) number is made up of Year, district, and number.
 
 eg. Action Number 2103 123456 = (2021 Edmonton 123456)
 
@@ -78,7 +78,7 @@ eg. Action Number 2103 123456 = (2021 Edmonton 123456)
 See more [Action number rules and examples](https://goa-dio.atlassian.net/wiki/spaces/QFR/pages/1486356612/Architecture+Artifacts#Action-Numbers)
 
 ### How it’s used
-{: .no_toc }
+{: .no_toc .mb-3}
 
 **Court case management digital service**
 
