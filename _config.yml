@@ -134,19 +134,6 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    docs:
-      # Give the collection a name
-      name: Design system
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
 #You can reference multiple collections. This creates categories in the navigation with the configured names.
 collections:
   docs:
@@ -163,10 +150,16 @@ just_the_docs:
   collections:
     docs:
       name: Design system
+      nav_exclude: false
+      search_exclude: false
       order:
         - design-system/ui-components/badge.md
         - buttons.md
     docs2:
       name: Common services
+      nav_exclude: false
+      search_exclude: false
     docs3:
       name: Support
+      nav_exclude: false
+      search_exclude: false
