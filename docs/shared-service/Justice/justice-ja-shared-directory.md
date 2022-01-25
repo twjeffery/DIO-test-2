@@ -36,9 +36,9 @@ Currently, meta data and contact information for Judges, Justices, Judicial assi
 
 ### When to use
 {: .no_toc .mb-3}
-Use this service when you need any kind of Justice data. This data includes:
+Use this service when you need any kind of Justice data.
 
-Information on each Justice or Judge:
+Information on each Justice or Judge, including:
 - Name
 - Judge code (5-6 letter code, similar to an identification number)
 - Email
@@ -49,24 +49,31 @@ Information on each Justice or Judge:
 - Retirement date
 - Appointment date
 - Location
-- PC it's the court locations; for QB it's the judicial centres
-- there is usually a resident location, and then locations where they might "serve"
 - Bilingual (yes/no)
 - Associated JA's (listed)
 - Justice training data
--   Jury training (yes/no)
--   Sexual assault training (yes/no)
 
+Information on each Judicial Assistant, including:
+- Name
+- Email
+- Location, Court House/ Office (similar structure to Justice’s)
+- Associated Justice's (listed)
 
 ### When not to use
 {: .no_toc .mb-3}
-This service only creates action numbers for civil actions in the Court of Queen's Bench. It is not currently available in other levels of Court.
+This shared service is not relevant for services if they do not need to know anything about a Justice or Judicial assistant.
 
 ### How it works
 {: .no_toc .mb-3}
-Based on the jurisdiction and district, it will look up the last generated value in the sequence, and increment that. It then returns that identifier and formats it based on the business rules relevant for that jurisdiction and district.
+The Justice / JA shared service stores all Justice and JA related data and information and puts it in a place where it can be updated and queried. By creating a single source of truth for this information, services will not have to duplicate this information anywhere.
 
-The generator looks up the last action number, increments it, and returns the next one. Making sure there are no collisions.
+#### Privacy
+This information is considered sensitive. As it includes contact information for each Justice, Judge, and JA, the privacy of this information should be considered as a high priority.
+
+This is information is gathered from:
+
+[Judges of the Provincial Court](https://albertacourts.ca/pc/about-the-court/judges_and_justices/judges-list)
+[Justices & Masters](https://albertacourts.ca/qb/about/justices-and-masters)
 
 ### How to access
 {: .no_toc .mb-3}
@@ -87,18 +94,6 @@ To request access to the production environment: email your request to <JSG.Plat
 
 ## Examples
 
-
-#### A Civil Action number explained:
-{: .no_toc }
-
-A [civil action](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Justice-,Civil%20action,-A%20civil%20action) number is made up of Year, district, and number.
-
-eg. Action Number 2103 123456 = (2021 Edmonton 123456)
-
-![image infos](../../../assets/images/action-number.png)
-
-See more [Action number rules and examples](https://goa-dio.atlassian.net/wiki/spaces/QFR/pages/1486356612/Architecture+Artifacts#Action-Numbers)
-
 ### How it’s used
 {: .no_toc .mb-3}
 
@@ -112,23 +107,26 @@ Chrissy Parkinson - Product owner
 
 [link, video, or images of application]
 
-**Filing digital service**
+**QB Filing digital service**
 
 Ronald Garcia - Digital architect
 
 Helen Maze - Product owner
 
-[A description of how the action number generator is used within the Filing digital service.]
+The QB Filing service needs to look up Justice and Master names as part of the clerk review and filing process. The lookup enables a clerk to select an assigned Justice/Master and add it to a request as metadata, which can then be surfaced to other stakeholders involved in the workflow.
 
-[link, video, or images of application]
+For example:
+- any Clerk can open a package and see which Justice/Master has been assigned for review or signature.
+- the requestor (Lawyer or Legal Assistant) can see which Justice/Master has requested revisions to a draft order, or which Justice/Master has signed their order.
+
+In the future, a Lawyer or Legal Assistant who requests to file an order signed in Court would also use a Justice/Master lookup to identify the signature.
+
 
 
 ---
 
 ### Additional documentation
 {: .no_toc }
-[Action number formatting](https://goa-dio.atlassian.net/wiki/spaces/QFR/pages/1486356612/Architecture+Artifacts#Action-Numbers)
-
 
 ---
 
