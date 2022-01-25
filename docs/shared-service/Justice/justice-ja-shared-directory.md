@@ -68,6 +68,7 @@ This shared service is not relevant for services if they do not need to know any
 The Justice / JA shared service stores all Justice and JA related data and information and puts it in a place where it can be updated and queried. By creating a single source of truth for this information, services will not have to duplicate this information anywhere.
 
 #### Privacy
+{: .no_toc }
 This information is considered sensitive. As it includes contact information for each Justice, Judge, and JA, the privacy of this information should be considered as a high priority.
 
 This is information is gathered from:
