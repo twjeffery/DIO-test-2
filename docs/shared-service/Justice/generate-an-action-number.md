@@ -52,11 +52,13 @@ The generator looks up the last action number, increments it, and returns the ne
 {: .no_toc }
 Access the dev environment to try out and test this shared service within your context and to determine if it fills your need.
 
-Link to Swagger page to try out and explore the API.
-Point to UAT endpoint.
+[Try out and explore the API](#) (Link to Swagger page)
+
+[Point to UAT endpoint](#)
+
 
 #### Production access
-{: .no_toc }
+{: .no_toc .mt-3}
 To request access to the production environment: email your request to <JSG.PlatformSupport@gov.ab.ca>
 
 ---
