@@ -10,7 +10,7 @@ nav_exclude: true
 # Design system, shared services, and support for service teams.
 {: .fs-9 }
 
-Use these resource to make your service consistent with the GOA. Learn from the research and experience of other service teams and avoid repeating work that’s already been done.
+Use these resources to make your service consistent with the GOA. Learn from the research and experience of other service teams and avoid repeating work that’s already been done.
 {: .fs-6 .fw-300 }
 
 
