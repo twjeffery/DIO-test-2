@@ -45,6 +45,7 @@ Each document or hearing has a unique identifier made up of 2-5 character code.
 Use the Civil Actions service when you need to look up details about a Civil Action including:
 
 #### Plaintiff data
+{: .no_toc }
 - Related Action
 - Names
 - Contact information
@@ -52,6 +53,7 @@ Use the Civil Actions service when you need to look up details about a Civil Act
 - Comments
 
 #### Defendant data
+{: .no_toc }
 - Related Action
 - Names
 - Contact information
@@ -59,6 +61,7 @@ Use the Civil Actions service when you need to look up details about a Civil Act
 - Comments
 
 #### Other parties or non parties
+{: .no_toc }
 - Plaintiff
 - Defendant
 - Applicant - important enough to add.
@@ -66,6 +69,7 @@ Use the Civil Actions service when you need to look up details about a Civil Act
 - Intervenor
 
 #### Hearing data
+{: .no_toc }
 - Related Action
 - Dates
 - Durations
@@ -78,6 +82,7 @@ Use the Civil Actions service when you need to look up details about a Civil Act
 - Activity/ History Data
 
 #### Justice's data
+{: .no_toc }
 - Code
 - Name
 - Contact Information
@@ -89,6 +94,7 @@ Use the Civil Actions service when you need to look up details about a Civil Act
 If you need to write back into CASES. This cannot be done. This API is for validation and for populating fields within your service.
 
 ### How it works
+{: .no_toc }
 - The Civil Action API currently connects to the Justice legacy database system for civil action information, CASES. This API provides a facade for accessing data from that database.
 - Access is secured and audited.
 - In the future this system will aggregate data from CASES, possibly QBSS and new systems such as Court Case Management and QB Filing into a backing Data Lake.
