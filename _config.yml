@@ -158,7 +158,7 @@ collections:
 
 just_the_docs:
   collections:
-    docs: Button
+    docs: 
       name: Design system
     docs2:
       name: Common services
