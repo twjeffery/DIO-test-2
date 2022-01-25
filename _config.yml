@@ -164,6 +164,9 @@ just_the_docs:
   collections:
     docs:
       name: Design system
+      order:
+        - badge.md
+        - buttons.md
     docs2:
       name: Common services
     docs3:
