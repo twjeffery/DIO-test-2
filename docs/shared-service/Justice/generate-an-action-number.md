@@ -73,6 +73,7 @@ A civil action number is made up of Year, district, and number.
 
 eg. Action Number 2103 123456 = (2021 Edmonton 123456)
 
+![image infos](../../assets/images/action-number.png)
 
 ### How it’s used
 {: .no_toc }
