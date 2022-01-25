@@ -9,13 +9,8 @@ nav_order: 1
 # Generate an action number
 {: .no_toc .mt-8 }
 `action-number-api`
-{: .mb-3 }
+{: .mt-2 .mb-3 }
 This shared-service generates an action number for your service to associate with a court action. The action number generator allows you to maintain a correct sequence for all action numbers created.
-<br><br>
-
-
-
-[Create a test account](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } or [contact the justice platform team for more information](#)
 
 ---
   <summary>
@@ -26,6 +21,7 @@ This shared-service generates an action number for your service to associate wit
 ---
 
 ## Background
+{: mb-2}
 An [Action Number](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Area-,Action%20number,-An%20Action%20Number) is a business key that is used to identify actions across all tracks in the Courts.
 
 Action numbers are commonly a manual process, using paper and stamps. This service generates Action numbers automatically, automating the manual process and saving time, while eliminating duplicates of action numbers.
