@@ -159,6 +159,8 @@ collections:
 just_the_docs:
   collections:
     docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
+      name: Design system
+    docs2:
+      name: Common services
+    docs3:
+      name: Support
