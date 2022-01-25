@@ -178,21 +178,3 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
-
-
-collections:
-  design_system:
-    output: true
-  shared_services:
-    output: true
-  support:
-    output: true
-
-just_the_docs:
-  collections:
-    design_system:
-      name: Design System
-    shared_services:
-      name: Shared services
-    support:
-      name: Support
