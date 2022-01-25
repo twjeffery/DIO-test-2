@@ -34,7 +34,7 @@ Action numbers are commonly a manual process, using paper and stamps. This servi
 {: .no_toc .mb-2}
 Use the action number generator if you need to create a new action number for your service.
 
-You would use this micro-service when you need to reliably generate an action number for a certain [jurisdiction](https://twjeffery.github.io/DIO-test-2/docs/get-started/glossary/#:~:text=Justice-,Jurisdiction,-A%20jurisdiction%20is) and district or centre. The action number generator allows you to maintain a correct sequence for all action numbers created.
+You would use this micro-service when you need to reliably generate an action number for a certain [jurisdiction](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Justice-,Jurisdiction,-A%20jurisdiction%20is) and district or centre. The action number generator allows you to maintain a correct sequence for all action numbers created.
 
 ### When not to use
 {: .no_toc .mb-2}
@@ -64,10 +64,14 @@ To request access to the production environment: email your request to <JSG.Plat
 ---
 
 ## Examples
-A [civil action](https://twjeffery.github.io/DIO-test-2/docs/get-started/glossary/#:~:text=Justice-,Civil%20action,-A%20civil%20action) number is made up of Year, district, and number.
+A [civil action](https://twjeffery.github.io/DIO-test-2/docs/shared-service/Justice/glossary/#:~:text=Justice-,Civil%20action,-A%20civil%20action) number is made up of Year, district, and number.
 
-#### Civil action example:
+#### A Civil Action number explained:
 {: .no_toc }
+
+A civil action number is made up of Year, district, and number.
+
+eg. Action Number 2103 123456 = (2021 Edmonton 123456)
 
 
 ### How it’s used
