@@ -158,6 +158,9 @@ collections:
   shared_services:
     permalink: "/:collection/:path/"
     output: true
+  support:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
@@ -165,3 +168,5 @@ just_the_docs:
       name: Design System
     shared_services:
       name: Shared services
+    support:
+      name: Support
