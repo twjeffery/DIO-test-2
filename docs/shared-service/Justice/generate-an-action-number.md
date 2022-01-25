@@ -15,10 +15,10 @@ This shared-service generates an action number for your service to associate wit
 [Swagger - API documentation](#)      [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
 
 ---
-  <summary>
-    On this page
-  </summary>
-- TOC
+## On this page
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
 ---
 
