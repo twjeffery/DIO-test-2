@@ -156,8 +156,8 @@ collections:
     permalink: "/design_system/:path/"
     output: true
     order:
-      - components/overview
-      - components/buttons_test.md
+      - guidelines/overview.md
+      - components/overview.md
   shared_services:
     permalink: "/shared_services/:path/"
     output: true
