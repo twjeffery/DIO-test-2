@@ -11,7 +11,6 @@ nav_order: 1
 Design system and other resources for all service teams.
 {: .fs-6 .fw-300 }
 
-[Get started](https://twjeffery.github.io/DIO-test-2/docs/get-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
