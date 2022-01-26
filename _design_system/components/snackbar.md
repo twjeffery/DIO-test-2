@@ -2,8 +2,6 @@
 layout: default
 title: Snackbar
 parent: Components
-has_children: true
-nav_order: 22
 has_toc: false
 ---
 

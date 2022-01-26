@@ -2,8 +2,6 @@
 layout: default
 title: Modal
 parent: Components
-has_children: true
-nav_order: 16
 has_toc: false
 ---
 

@@ -2,8 +2,6 @@
 layout: default
 title: Pagination
 parent: Components
-has_children: true
-nav_order: 19
 has_toc: false
 ---
 

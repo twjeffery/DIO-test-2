@@ -2,8 +2,6 @@
 layout: default
 title: Hero banner
 parent: Components
-has_children: true
-nav_order: 14
 has_toc: false
 ---
 

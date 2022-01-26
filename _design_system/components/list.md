@@ -2,8 +2,6 @@
 layout: default
 title: List
 parent: Components
-has_children: true
-nav_order: 15
 has_toc: false
 ---
 

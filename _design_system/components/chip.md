@@ -2,8 +2,6 @@
 layout: default
 title: Chip
 parent: Components
-has_children: true
-nav_order: 6
 has_toc: false
 ---
 

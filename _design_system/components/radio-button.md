@@ -2,8 +2,6 @@
 layout: default
 title: Radio button
 parent: Components
-has_children: true
-nav_order: 21
 has_toc: false
 ---
 

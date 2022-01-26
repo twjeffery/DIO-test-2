@@ -2,8 +2,6 @@
 layout: default
 title: Callout
 parent: Components
-has_children: false
-nav_order: 3
 has_toc: false
 ---
 

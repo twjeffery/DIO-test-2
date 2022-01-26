@@ -2,8 +2,6 @@
 layout: default
 title: Header
 parent: Components
-has_children: true
-nav_order: 13
 has_toc: false
 ---
 

@@ -2,8 +2,6 @@
 layout: default
 title: Text field and area
 parent: Components
-has_children: true
-nav_order: 23
 has_toc: false
 ---
 

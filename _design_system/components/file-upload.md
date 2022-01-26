@@ -2,8 +2,6 @@
 layout: default
 title: File upload
 parent: Components
-has_children: true
-nav_order: 11
 has_toc: false
 ---
 

@@ -2,8 +2,6 @@
 layout: default
 title: Notification banner
 parent: Components
-has_children: true
-nav_order: 18
 has_toc: false
 ---
 

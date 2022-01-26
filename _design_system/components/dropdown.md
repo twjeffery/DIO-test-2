@@ -2,8 +2,6 @@
 layout: default
 title: Dropdown
 parent: Components
-has_children: true
-nav_order: 10
 has_toc: false
 ---
 

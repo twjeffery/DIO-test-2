@@ -2,8 +2,6 @@
 layout: default
 title: Navigation
 parent: Components
-has_children: true
-nav_order: 17
 has_toc: false
 ---
 

@@ -2,8 +2,6 @@
 layout: default
 title: Divider
 parent: Components
-has_children: true
-nav_order: 9
 has_toc: false
 ---
 

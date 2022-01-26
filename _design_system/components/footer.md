@@ -2,8 +2,6 @@
 layout: default
 title: Footer
 parent: Components
-has_children: true
-nav_order: 12
 has_toc: false
 ---
 
