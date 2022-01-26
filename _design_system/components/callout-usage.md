@@ -12,7 +12,9 @@ has_toc: false
 
 Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
 <br><br>
-**Usage** | [**Code**](https://twjeffery.github.io/DIO-test-2/docs/ui-components/callout-code/) | [**Related**](https://twjeffery.github.io/DIO-test-2/docs/ui-components/callout-related/)
+**Usage** | [**Code**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-code/) | [**Related**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-related/)
+
+
 <br><br>
 {: .fs-6 .fw-300 }
 
@@ -41,7 +43,6 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 ```markdown
 [Link button](http://example.com/){: .btn }
 ```
-{% endhighlight %}
 
 
 
