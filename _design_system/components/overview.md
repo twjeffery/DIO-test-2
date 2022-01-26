@@ -12,9 +12,3 @@ Components are reusable parts of the user interface that have been made to suppo
 {: .fs-6 .fw-300 }
 
 ---
-
-## Table of contents
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}

@@ -12,10 +12,3 @@ Guidelines are the basic characteristics that make up a component such as colour
 {: .fs-6 .fw-300 }
 
 ---
-
-## Table of contents
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
----

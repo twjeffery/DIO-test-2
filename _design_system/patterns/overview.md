@@ -11,10 +11,3 @@ Patterns are larger tasks and flows that are supported by a group of components.
 {: .fs-6 .fw-300 }
 
 ---
-
-## Table of contents
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
----
