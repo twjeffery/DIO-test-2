@@ -6,8 +6,13 @@ nav_order: 1
 has_toc: false
 ---
 
+
 # Support
-{: .no_toc }
+{: .fs-9 .no_toc }
+
+Get support with the design system and shared services.
+{: .fs-6 .fw-300 }
+
 
 ## Contact us
 

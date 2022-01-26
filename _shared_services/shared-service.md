@@ -7,7 +7,7 @@ nav_exclude: true
 ---
 
 # Shared services
-{: .no_toc .mb-5}
+{: .fs-9 .no_toc }
 
 Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
 {: .fs-6 .fw-300 }
