@@ -37,22 +37,23 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 
 <div class="code-example" markdown="1">
 
-[Link button](http://example.com/){: .btn }
+<div>
+<iframe
+  width="100%"
+  height="250"
+src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
+</div>
 
 </div>
 
-markdown
-[Link button](http://example.com/){: .btn }
 
-
-
-
+```
 <GoACallout
   type="'important || 'information' || 'event' || 'emergency' || 'success'"
   title="Callout Title"
   content="Information to the user goes in the content"
 />
-
+```
 
 
 
