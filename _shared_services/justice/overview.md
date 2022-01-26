@@ -15,8 +15,6 @@ Solutions to common needs that services have, specific to Justice. Generate an a
 
 ---
 
-### Live
-
 ## [Generate an action number](https://twjeffery.github.io/DIO-test-2/shared_services/justice/generate-an-action-number/)
 `action-number-api`
 {: .mb-1 }

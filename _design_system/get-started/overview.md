@@ -29,7 +29,7 @@ Design system and other resources for all service teams.
 
 Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
 
-[Browse guidelines](https://twjeffery.github.io/DIO-test-2/docs/guidelines)
+[Browse guidelines](https://twjeffery.github.io/DIO-test-2/design_system/guidelines/overview/)
 
 ---
 
@@ -37,7 +37,7 @@ Guidelines are the basic characteristics that make up a component such as colour
 
 Components are reusable parts of the user interface that have been made to support a variety of applications. You can use individual components in many different patterns and contexts.
 
-[Browse components](https://twjeffery.github.io/DIO-test-2/docs/components)
+[Browse components](https://twjeffery.github.io/DIO-test-2/design_system/components/overview/)
 
 ---
 
@@ -45,10 +45,10 @@ Components are reusable parts of the user interface that have been made to suppo
 
 Patterns are larger tasks and flows that are supported by a group of components. You can use many different components in different patterns and contexts.
 
-[Browse patterns](https://twjeffery.github.io/DIO-test-2/docs/patterns)
+[Browse patterns](https://twjeffery.github.io/DIO-test-2/design_system/patterns/overview/)
 
 ---
 
 ## Contributing
 
-To contribute to the design system, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in our [GitHub discussions](https://github.com/GovAlta/ui-components/discussions).
+To contribute to the design system, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.

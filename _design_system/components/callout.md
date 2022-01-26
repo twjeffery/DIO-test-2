@@ -31,6 +31,7 @@ Callouts communicate important changes or facts within the body layout through a
   height="250"
 src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
 </div>
+
 ```
 <GoACallout
   type="'important || 'information' || 'event' || 'emergency' || 'success'"
