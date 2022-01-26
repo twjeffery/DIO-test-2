@@ -5,25 +5,23 @@ parent: Components
 has_toc: false
 ---
 
-
----
 # Callout
 {: .no_toc }
 
 Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
-
 <br><br>
-
 **Usage** | [**Code**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-code/) | [**Related**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-related/)
-
-
+<br><br>
 ---
+
 ## On this page
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
----
+
+
+
 
 
 ## Live Demo

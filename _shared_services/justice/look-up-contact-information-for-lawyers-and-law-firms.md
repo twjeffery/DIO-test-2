@@ -13,7 +13,7 @@ nav_order: 2
 
 The law society database is a directory to look up information on lawyers and law firms to use within your service.
 
-[Swagger - API documentation](https://jdms-law-society-api-jdms-prod.os99.gov.ab.ca/swagger/index.html)      [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
+[Swagger - API documentation](https://jdms-law-society-api-jdms-uat.os99.gov.ab.ca/swagger/index.html)   |   [Health check](https://jdms-platform-api-jdms-dev.os99.gov.ab.ca/health-ui#/healthchecks)
 
 ---
 ## On this page
