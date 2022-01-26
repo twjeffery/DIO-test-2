@@ -4,6 +4,7 @@ title: Justice Shared Services
 has_children: true
 nav_order: 2
 has_toc: false
+last_modified_date: today
 ---
 
 # Shared services - Justice Digital
