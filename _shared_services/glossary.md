@@ -6,7 +6,7 @@ last_modified_date: today
 ---
 
 # Glossary
-{: .no_toc .mt-8 .mb-5}
+{: .no_toc .mb-5}
 
 ---
 
