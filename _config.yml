@@ -133,7 +133,7 @@ compress_html:
 collections:
   # Define a collection named "docs", its documents reside in the "_docs" directory
   docs:
-    permalink: "/:collection/:path/"
+    permalink: "/docs/:path/"
     output: true
 
 just_the_docs:
@@ -153,13 +153,13 @@ just_the_docs:
 
 collections:
   design_system:
-    permalink: "/:collection/:path/"
+    permalink: "/design_system/:path/"
     output: true
   shared_services:
-    permalink: "/:collection/:path/"
+    permalink: "/shared_services/:path/"
     output: true
   support:
-    permalink: "/:collection/:path/"
+    permalink: "/support/:path/"
     output: true
 
 just_the_docs:
