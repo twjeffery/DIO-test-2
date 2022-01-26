@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Components
 has_children: true
 nav_order: 3
