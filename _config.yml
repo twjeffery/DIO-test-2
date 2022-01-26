@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Design system":
-    - "https://twjeffery.github.io/DIO-test-2/design-system"
+    - "https://twjeffery.github.io/DIO-test-2/design_system/get-started/overview/"
   "Shared services":
     - "https://twjeffery.github.io/DIO-test-2/docs/shared-services"
   "Support":

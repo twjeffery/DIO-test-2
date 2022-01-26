@@ -31,7 +31,7 @@ Use these resources to make your service consistent with the GOA. Learn from the
 
 Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
 
-[Browse the design system](https://twjeffery.github.io/DIO-test-2/design-system)
+[Browse the design system](https://twjeffery.github.io/DIO-test-2/design_system/get-started/overview/)
 
 ---
 
