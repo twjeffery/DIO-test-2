@@ -3,6 +3,7 @@ layout: default
 title: Alberta Digital Service Platform
 has_children: true
 nav_order: 1
+has_toc: false
 ---
 
 # Alberta Digital Service Platform (ADSP)
