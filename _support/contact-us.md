@@ -6,14 +6,10 @@ nav_order: 1
 has_toc: false
 ---
 
-# Contact us
+# Support
 {: .no_toc }
 
-
-
-
-
-# Support
+## Contact us
 
 The GOA design system is supported by the design system team. For help, questions, or feedback, contact the [design system team]()
 <br><br>
