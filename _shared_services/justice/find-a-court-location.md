@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Find a court location
-parent: Justice
-grand_parent: Shared services
-nav_order: 6
+parent: Justice Shared Services
+nav_order: 4
 ---
 In development
 {: .label .label-yellow .mt-6 }
