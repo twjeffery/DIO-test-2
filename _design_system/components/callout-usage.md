@@ -15,7 +15,6 @@ Callouts communicate important changes or facts within the body layout through a
 **Usage** | [**Code**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-code/) | [**Related**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-related/)
 
 
-<br><br>
 {: .fs-6 .fw-300 }
 
 ## On this page
@@ -27,15 +26,8 @@ Callouts communicate important changes or facts within the body layout through a
 
 ## Live Demo
 ---
-<div>
-<iframe
-  width="100%"
-  height="250"
-src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
-</div>
 
-
-<div class="code-example" markdown="1">
+<div class="code-example" html="1">
 
 <div>
 <iframe
