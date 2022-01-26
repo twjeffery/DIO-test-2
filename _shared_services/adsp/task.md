@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Task
-nav_order: 15
+parent: Alberta Digital Service Platform
 ---
 
 # Task

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Value
-nav_order: 17
+parent: Alberta Digital Service Platform
 ---
 
 # Value

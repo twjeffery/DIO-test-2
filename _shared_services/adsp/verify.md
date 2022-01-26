@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verify
-nav_order: 18
+parent: Alberta Digital Service Platform
 ---
 
 # Verify

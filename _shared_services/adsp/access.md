@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Access
-nav_order: 1
+parent: Alberta Digital Service Platform
 ---
 
 # Access

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notifications
-nav_order: 12
+parent: Alberta Digital Service Platform
 ---
 
 # Notifications

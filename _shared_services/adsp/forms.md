@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Forms
-nav_order: 6
+parent: Alberta Digital Service Platform
 ---
 
 # Forms

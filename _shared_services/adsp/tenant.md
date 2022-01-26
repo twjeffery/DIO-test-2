@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tenant
-nav_order: 16
+parent: Alberta Digital Service Platform
 ---
 
 # Tenant

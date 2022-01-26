@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calendar
-nav_order: 2
+parent: Alberta Digital Service Platform
 ---
 
 # Calendar

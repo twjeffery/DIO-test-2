@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Status
-nav_order: 14
+parent: Alberta Digital Service Platform
 ---
 
 # Status

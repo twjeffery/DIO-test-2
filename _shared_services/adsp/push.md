@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Push
-nav_order: 13
+parent: Alberta Digital Service Platform
 ---
 
 # Push

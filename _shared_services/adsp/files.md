@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Files
-nav_order: 5
+parent: Alberta Digital Service Platform
 ---
 
 # Files
