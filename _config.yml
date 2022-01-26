@@ -164,9 +164,14 @@ collections:
   shared_services:
     permalink: "/shared_services/:path/"
     output: true
+    order:
+      - /adsp/overview.md
+      - /justice/overview.md
   support:
     permalink: "/support/:path/"
     output: true
+    order:
+      
 
 just_the_docs:
   collections:
