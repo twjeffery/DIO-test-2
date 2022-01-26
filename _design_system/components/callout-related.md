@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Related
-parent: Callout
-grand_parent: Components
+parent: Components
 nav_exclude: true
 ---
 
