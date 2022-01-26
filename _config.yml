@@ -69,7 +69,7 @@ aux_links:
   "Shared services":
     - "https://twjeffery.github.io/DIO-test-2/shared-services"
   "Support":
-    - "https://twjeffery.github.io/DIO-test-2/docs/support/overview/"
+    - "https://twjeffery.github.io/DIO-test-2/support/contact-us/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
