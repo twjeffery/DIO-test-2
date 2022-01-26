@@ -39,7 +39,7 @@ Guidelines are the basic characteristics that make up a component such as colour
 
 Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
 
-[Browse shared services](https://twjeffery.github.io/DIO-test-2/docs/shared-services)
+[Browse shared services](https://twjeffery.github.io/DIO-test-2/shared-services)
 
 ---
 
