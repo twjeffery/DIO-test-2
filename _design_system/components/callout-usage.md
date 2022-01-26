@@ -15,7 +15,7 @@ Callouts communicate important changes or facts within the body layout through a
 <br><br>
 
 **Usage** | [**Code**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-code/) | [**Related**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-related/)
-{: .fs-6 .fw-300 }
+
 
 ---
 ## On this page

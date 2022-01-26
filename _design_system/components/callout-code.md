@@ -11,9 +11,8 @@ nav_exclude: true
 
 Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
 <br><br>
-[**Usage**](https://twjeffery.github.io/DIO-test-2/docs/ui-components/callout/) | **Code** | [**Related**](https://twjeffery.github.io/DIO-test-2/docs/ui-components/callout-related/)
+[**Usage**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-usage/) | **Code** | [**Related**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-related/)
 <br><br>
-{: .fs-6 .fw-300 }
 
 
 ## On this page
