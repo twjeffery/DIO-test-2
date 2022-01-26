@@ -3,10 +3,8 @@ layout: default
 title: Guidelines
 has_children: true
 nav_order: 2
+has_toc: false
 ---
-
-# Guidelines
-{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
