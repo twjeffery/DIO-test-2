@@ -37,9 +37,9 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
   type="'important || 'information' || 'event' || 'emergency' || 'success'"
   title="Callout Title"
   content="Information to the user goes in the content"
-  <
 />
 ```
+
 [**Angular**]() | [**React**]() | [**Vue**]() | [**Web components**]()
 <br><br>
 
