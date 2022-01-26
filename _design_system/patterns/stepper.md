@@ -1,11 +1,10 @@
 ---
 layout: default
-title: 404 page
-parent: Patterns
-nav_order: 1
+title: Stepper
+nav_order: 6
 ---
 
-# 404 page
+# Stepper
 {: .no_toc }
 
 ## On this page

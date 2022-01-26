@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Responsive Modifiers
-parent: Guidelines
 ---
 
 # Responsive modifiers

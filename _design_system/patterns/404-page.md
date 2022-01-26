@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Dashboard
-parent: Patterns
-nav_order: 3
+title: 404 page
+nav_order: 1
 ---
 
-# Dashboard
+# 404 page
 {: .no_toc }
 
 ## On this page

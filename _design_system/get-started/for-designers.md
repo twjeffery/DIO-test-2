@@ -3,6 +3,7 @@ layout: default
 title: For designers
 nav_order: 2
 last_modified_date: today
+parent: Get Started
 
 ---
 

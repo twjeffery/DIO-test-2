@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Ask users for...
-parent: Patterns
-nav_order: 2
-has_children: true
+title: Date format
+nav_order: 6   
 ---
 
-# Ask users for...
+# Date format
 {: .no_toc }
 
 ## On this page
@@ -16,3 +14,5 @@ has_children: true
 {:toc}
 
 ---
+
+## Content

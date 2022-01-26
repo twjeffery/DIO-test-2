@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Date format
-parent: Guidelines
-nav_order: 6   
+title: Icons
+nav_order: 8    
 ---
 
-# Date format
+# Icons
 {: .no_toc }
 
 ## On this page

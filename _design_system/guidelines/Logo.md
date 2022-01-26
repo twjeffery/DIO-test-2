@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Icons
-parent: Guidelines
-nav_order: 8    
+title: Logo
+nav_order: 12    
 ---
 
-# Icons
+# Logo
 {: .no_toc }
 
 ## On this page

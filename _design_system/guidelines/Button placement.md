@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Accessibility
-parent: Guidelines
-nav_order: 1
+title: Button placement
+nav_order: 2
 ---
 
-# Accessibility
+# Button placement
 {: .no_toc }
 
 ## On this page

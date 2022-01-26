@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Stepper
-parent: Patterns
-nav_order: 6
+title: Accessibility
+nav_order: 1
 ---
 
-# Stepper
+# Accessibility
 {: .no_toc }
 
 ## On this page
@@ -15,3 +14,5 @@ nav_order: 6
 {:toc}
 
 ---
+
+## Content

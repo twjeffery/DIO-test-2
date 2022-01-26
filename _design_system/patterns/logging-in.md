@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Logo
-parent: Guidelines
-nav_order: 12    
+title: Logging in
+nav_order: 4
 ---
 
-# Logo
+# Logging in
 {: .no_toc }
 
 ## On this page
@@ -15,5 +14,3 @@ nav_order: 12
 {:toc}
 
 ---
-
-## Content

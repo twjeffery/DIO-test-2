@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Links
-parent: Guidelines
-nav_order: 11   
+title: Grids and spacing
+nav_order: 7   
 ---
 
-# Links
+# Grids and spacing
 {: .no_toc }
 
 ## On this page

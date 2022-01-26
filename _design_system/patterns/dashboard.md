@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Skeleton loading
-parent: Guidelines
-nav_order: 13   
+title: Dashboard
+nav_order: 3
 ---
 
-# Skeleton loading
+# Dashboard
 {: .no_toc }
 
 ## On this page
@@ -15,5 +14,3 @@ nav_order: 13
 {:toc}
 
 ---
-
-## Content

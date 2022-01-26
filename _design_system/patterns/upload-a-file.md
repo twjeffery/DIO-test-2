@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Capitalization
-parent: Guidelines
-nav_order: 3  
+title: Upload a file
+nav_order: 5
 ---
 
-# Capitalization
+# Upload a file
 {: .no_toc }
 
 ## On this page
@@ -15,5 +14,3 @@ nav_order: 3
 {:toc}
 
 ---
-
-## Content

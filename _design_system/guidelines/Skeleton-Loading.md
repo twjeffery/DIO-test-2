@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Logging in
-parent: Patterns
-nav_order: 4
+title: Skeleton loading
+nav_order: 13   
 ---
 
-# Logging in
+# Skeleton loading
 {: .no_toc }
 
 ## On this page
@@ -15,3 +14,5 @@ nav_order: 4
 {:toc}
 
 ---
+
+## Content

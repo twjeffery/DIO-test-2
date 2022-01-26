@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Upload a file
-parent: Patterns
-nav_order: 5
+title: Links
+nav_order: 11   
 ---
 
-# Upload a file
+# Links
 {: .no_toc }
 
 ## On this page
@@ -15,3 +14,5 @@ nav_order: 5
 {:toc}
 
 ---
+
+## Content

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Button placement
-parent: Guidelines
+title: Ask users for...
 nav_order: 2
+has_children: true
 ---
 
-# Button placement
+# Ask users for...
 {: .no_toc }
 
 ## On this page
@@ -15,5 +15,3 @@ nav_order: 2
 {:toc}
 
 ---
-
-## Content
