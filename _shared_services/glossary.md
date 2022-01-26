@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Glossary
-parent: Justice
-grand_parent: Shared services
 nav_order: 99
 last_modified_date: today
 ---

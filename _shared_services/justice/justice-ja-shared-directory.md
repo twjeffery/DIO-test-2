@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Look up information for court personnel
-parent: Justice
-grand_parent: Shared services
-nav_order: 9
+parent: Justice Shared Services
+nav_order: 5
 ---
 In development
 {: .label .label-yellow .mt-6}
