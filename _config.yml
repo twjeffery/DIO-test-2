@@ -156,8 +156,11 @@ collections:
     permalink: "/design_system/:path/"
     output: true
     order:
+      - /get-started/overview/md
       - /guidelines/overview.md
       - /components/overview.md
+      - /patterns/overview.md
+      - /templates/overview/md
   shared_services:
     permalink: "/shared_services/:path/"
     output: true
