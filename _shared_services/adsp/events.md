@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Events
-parent: Alberta Digital Service Platform
-grand_parent: Shared services
 nav_order: 4
 ---
 
