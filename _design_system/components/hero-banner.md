@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Snackbar
+title: Hero banner
 parent: Components
 has_children: true
-nav_order: 22
+nav_order: 14
 has_toc: false
 ---
 
 
-# Snackbar    
+# Hero banner
 {: .no_toc }
 
 Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
@@ -21,5 +21,3 @@ Callouts communicate important changes or facts within the body layout through a
 
 
 ---
-**Tags:** Surfaces | Information | Web | Structure
-{: .text-grey-lt-300 }

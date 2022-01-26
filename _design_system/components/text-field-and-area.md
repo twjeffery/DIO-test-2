@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Disclaimer
+title: Text field and area
 parent: Components
 has_children: true
-nav_order: 8
+nav_order: 23
 has_toc: false
 ---
 
 
-# Disclaimer
+# Text field and area    
 {: .no_toc }
 
 Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
@@ -21,5 +21,3 @@ Callouts communicate important changes or facts within the body layout through a
 
 
 ---
-**Tags:** Surfaces | Information | Web | Structure
-{: .text-grey-lt-300 }

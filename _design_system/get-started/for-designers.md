@@ -1,9 +1,7 @@
 ---
 layout: default
 title: For designers
-parent: Get started
-grand_parent: Design System
-nav_order: 1
+nav_order: 2
 last_modified_date: today
 
 ---

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: List
+title: Modal
 parent: Components
 has_children: true
-nav_order: 15
+nav_order: 16
 has_toc: false
 ---
 
 
-# List
+# Modal
 {: .no_toc }
 
 Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
@@ -21,5 +21,3 @@ Callouts communicate important changes or facts within the body layout through a
 
 
 ---
-**Tags:** Surfaces | Information | Web | Structure
-{: .text-grey-lt-300 }
