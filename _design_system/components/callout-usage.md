@@ -11,17 +11,19 @@ has_toc: false
 {: .no_toc }
 
 Callouts communicate important changes or facts within the body layout through a strong visual emphasis, so that users take notice and read the information.
+
 <br><br>
+
 **Usage** | [**Code**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-code/) | [**Related**](https://twjeffery.github.io/DIO-test-2/design_system/components/callout-related/)
-
-
 {: .fs-6 .fw-300 }
 
+---
 ## On this page
 {: .no_toc .text-delta }
 
-- TOC
+1. TOC
 {:toc}
+---
 
 
 ## Live Demo
