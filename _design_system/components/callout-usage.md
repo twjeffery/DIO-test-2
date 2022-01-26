@@ -40,9 +40,10 @@ src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-component
 [Link button](http://example.com/){: .btn }
 
 </div>
-```markdown
+
+markdown
 [Link button](http://example.com/){: .btn }
-```
+
 
 
 
@@ -83,7 +84,7 @@ At minimum, body text is required. There may be an optional header.
 Each calllout variant has a particular use case and its design communicates it's function to the user. It is therefore very important that the different variants are implemented consistently across products, so that they communicate consistently.
 <br><br>
 
-![image infos](../../assets/images/callout-variants.png)
+![image infos](../../../assets/images/callout-variants.png)
 
 
 | Variant      | Purpose           |
@@ -104,13 +105,13 @@ Callout banners should be the full width of the content space they are placed in
 Callouts banners have a bottom margin of 28px.
 <br><br>
 
-![image infos](../../assets/images/callout-dont-4.png)
+![image infos](../../../assets/images/callout-dont-4.png)
 
 <br>
 <br>
 ## Anatomy
 ---
-![image infos](../../assets/images/callout-anatomy.png)
+![image infos](../../../assets/images/callout-anatomy.png)
 
 <br>
 <br>
