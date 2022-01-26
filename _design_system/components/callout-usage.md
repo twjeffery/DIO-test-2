@@ -72,10 +72,10 @@ A callout banner must be relevant to the header or section to which it correspon
 At minimum, body text is required. There may be an optional header.
 <br><br>
 
-![image infos](../assets/images/callout-do-1.png)
-![image infos](assets/images/callout-dont-1.png)
+![image infos](../../../assets/images/callout-do-1.png)
+![image infos](../../../assets/images/callout-dont-1.png)
 ![image infos](../../../assets/images/callout-dont-2.png)
-![image infos](/assets/images/callout-dont-3.png)
+![image infos](../../../assets/images/callout-dont-3.png)
 
 <br><br>
 ## Variants
