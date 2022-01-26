@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Capitalization
-nav_order: 3  
+parent: Guidelines
 ---
 
 # Capitalization

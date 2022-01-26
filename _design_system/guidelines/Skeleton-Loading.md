@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Skeleton loading
-nav_order: 13   
+parent: Guidelines  
 ---
 
 # Skeleton loading

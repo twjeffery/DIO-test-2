@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Button placement
-nav_order: 2
+parent: Guidelines
 ---
 
 # Button placement

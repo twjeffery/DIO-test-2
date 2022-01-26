@@ -2,7 +2,7 @@
 layout: default
 title: Image
 parent: Guidelines
-nav_order: 9   
+parent: Guidelines
 ---
 
 # Image

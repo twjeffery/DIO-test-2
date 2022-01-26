@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Icons
-nav_order: 8    
+parent: Guidelines  
 ---
 
 # Icons

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grids and spacing
-nav_order: 7   
+parent: Guidelines
 ---
 
 # Grids and spacing

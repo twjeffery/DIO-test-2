@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Logo
-nav_order: 12    
+parent: Guidelines
 ---
 
 # Logo

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Content
-nav_order: 5   
+parent: Guidelines  
 ---
 
 # Content

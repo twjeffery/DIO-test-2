@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Layout
-nav_order: 10
+parent: Guidelines
 ---
 
 # Layout

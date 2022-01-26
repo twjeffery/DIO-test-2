@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accessibility
-nav_order: 1
+parent: Guidelines
 ---
 
 # Accessibility

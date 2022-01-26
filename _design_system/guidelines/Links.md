@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Links
-nav_order: 11   
+parent: Guidelines  
 ---
 
 # Links

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Date format
-nav_order: 6   
+parent: Guidelines
 ---
 
 # Date format

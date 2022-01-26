@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Color
-nav_order: 4
+parent: Guidelines
 ---
 
 # Colors
