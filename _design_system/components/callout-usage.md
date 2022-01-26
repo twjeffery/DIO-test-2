@@ -32,13 +32,38 @@ Callouts communicate important changes or facts within the body layout through a
 src="https://ui-components.alpha.alberta.ca/react/iframe.html?id=react-components-callout--variants" markdown="block" />
 </div>
 
+<div class="code-example" markdown="1">
+
+<div class="code-example" markdown="1">
+
+[Link button](http://example.com/){: .btn }
+
+</div>
+```markdown
+[Link button](http://example.com/){: .btn }
 ```
+
+</div>
+{% highlight markdown %}
+<div class="code-example" markdown="1">
+
+[Link button](http://example.com/){: .btn }
+
+</div>
+```markdown
+[Link button](http://example.com/){: .btn }
+```
+{% endhighlight %}
+
+```html
 <GoACallout
   type="'important || 'information' || 'event' || 'emergency' || 'success'"
   title="Callout Title"
   content="Information to the user goes in the content"
 />
 ```
+
+
 
 [**Angular**]() | [**React**]() | [**Vue**]() | [**Web components**]()
 <br><br>
