@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboard
-nav_order: 3
+parent: Patterns
 ---
 
 # Dashboard

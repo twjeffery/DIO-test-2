@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 404 page
-nav_order: 1
+parent: Patterns
 ---
 
 # 404 page

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Ask users for...
-nav_order: 2
 has_children: true
+parent: Patterns
 ---
 
 # Ask users for...

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stepper
-nav_order: 6
+parent: Patterns
 ---
 
 # Stepper

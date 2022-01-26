@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Upload a file
-nav_order: 5
+parent: Patterns
 ---
 
 # Upload a file

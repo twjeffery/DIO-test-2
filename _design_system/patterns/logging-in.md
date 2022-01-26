@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Logging in
-nav_order: 4
+parent: Patterns
 ---
 
 # Logging in
