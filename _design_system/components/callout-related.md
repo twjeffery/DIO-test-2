@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Related
+title: Callout
 parent: Components
 nav_exclude: true
 ---

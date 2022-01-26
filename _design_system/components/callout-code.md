@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code
+title: Callout
 parent: Components
 nav_exclude: true
 ---
@@ -21,7 +21,7 @@ Callouts communicate important changes or facts within the body layout through a
 - TOC
 {:toc}
 
----
+
 
 ## Documentation
 ---
