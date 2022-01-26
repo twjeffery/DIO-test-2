@@ -19,7 +19,7 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
 
-[Browse ADSP](https://twjeffery.github.io/DIO-test-2/design_system/guidelines/overview/)
+[Browse ADSP](https://twjeffery.github.io/DIO-test-2/shared_services/adsp/overview/)
 
 ---
 
@@ -27,6 +27,6 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 Solutions to common needs that services have, specific to Justice. Generate an action number, look up details about a civil action, and more.
 
-[Browse justice shared services](https://twjeffery.github.io/DIO-test-2/design_system/components/overview/)
+[Browse justice shared services](https://twjeffery.github.io/DIO-test-2/shared_services/justice/overview/)
 
 ---
