@@ -20,9 +20,9 @@ Use these resources to make your service consistent with the GOA. Learn from the
 ## What's new
 1 Dec 2021: We've released UI components react-v3.4-beta and angular-v2.0-beta. These releases contains new components within the React and angular frameworks.
 
-[Read the release notes to see what’s changed.](https://github.com/GovAlta/ui-components/releases)
+[Read the release notes to see what’s changed](https://github.com/GovAlta/ui-components/releases)
 
-[Sign up to get update emails about the Design System.]()
+[Sign up to get update emails about the Design System]()
 
 
 ---
@@ -31,7 +31,7 @@ Use these resources to make your service consistent with the GOA. Learn from the
 
 Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
 
-[Browse guidelines](https://twjeffery.github.io/DIO-test-2/docs/guidelines)
+[Browse the design system](https://twjeffery.github.io/DIO-test-2/design-system)
 
 ---
 
@@ -45,4 +45,4 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 ## Support
 
-To contribute to the design system, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in our [GitHub discussions](https://github.com/GovAlta/ui-components/discussions).
+To contribute to the design system, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
