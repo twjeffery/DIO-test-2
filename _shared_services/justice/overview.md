@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Justice Shared Services
+title: Justice Platform Shared Services
 has_children: true
 nav_order: 2
 has_toc: false

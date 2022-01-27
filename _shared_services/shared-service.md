@@ -23,10 +23,10 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 ---
 
-## Justice Shared Services
+## Justice Platform Shared Services
 
 Solutions to common needs that services have, specific to Justice. Generate an action number, look up details about a civil action, and more.
 
-[Browse justice shared services](https://twjeffery.github.io/DIO-test-2/shared_services/justice/overview/)
+[Browse justice platform shared services](https://twjeffery.github.io/DIO-test-2/shared_services/justice/overview/)
 
 ---
