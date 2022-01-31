@@ -29,7 +29,7 @@ Use these resources to make your service consistent with the GOA. Learn from the
 
 ## Design system
 
-Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
+Design, code, and inspiration for building GOA experiences. Use the design system to make your service consistent with the GOA.
 
 [Browse the design system](https://twjeffery.github.io/DIO-test-2/design_system/get-started/overview/)
 
