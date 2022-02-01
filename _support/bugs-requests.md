@@ -9,8 +9,9 @@ has_toc: false
 # Bugs and requests
 {: .no_toc }
 
-
+---
 ## Report a bug
+---
 
 ## Get support
 
