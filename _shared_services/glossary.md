@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Glossary
-nav_order: 99
 last_modified_date: today
+nav_exclude: true
 ---
 
 # Glossary
