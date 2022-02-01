@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Skeleton loading
+title: Loading
 parent: Guidelines  
 ---
 
-# Skeleton loading
+# Loading
 {: .no_toc }
 
 ## On this page

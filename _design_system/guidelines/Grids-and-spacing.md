@@ -15,4 +15,8 @@ parent: Guidelines
 
 ---
 
-## Content
+## Spacing
+
+## Layout
+
+## Grid

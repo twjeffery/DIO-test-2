@@ -4,7 +4,7 @@ title: Typography
 parent: Guidelines
 ---
 
-# Typography Utilities
+# Typography
 {: .no_toc }
 
 ## Table of contents

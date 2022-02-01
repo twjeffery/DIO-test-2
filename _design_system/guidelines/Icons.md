@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Icons
+title: Iconography
 parent: Guidelines  
 ---
 

@@ -15,4 +15,12 @@ parent: Guidelines
 
 ---
 
-## Content
+## Capitalization
+
+## Date format
+
+## Button placement
+
+## Voice and tone
+
+## Plain language
