@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Contact us
+title: Talk to us
 has_children: false
-nav_order: 1
+nav_order: 3
 has_toc: false
 ---
 
