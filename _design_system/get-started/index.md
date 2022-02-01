@@ -6,8 +6,12 @@ last_modified_date: today
 
 ---
 
-## Get started
+# Get started
+{: .fs-9 }
+
 What you need to know about the Design System depends on your role and discipline.
+{: .fs-6 .fw-300 }
+
 
 ### Developers
 Learn [what’s different](#) about DIO’s Design System approach and how to install components.
@@ -16,7 +20,7 @@ Learn [what’s different](#) about DIO’s Design System approach and how to in
 Start with the visual design style guide. Learn about the [guidelines](#), [components](#), and [patterns](#) you can incorporate into your design.
 
 ### Everyone
-Everyone can benefit from the Design System. See examples of how the design system is used within current services.
+Everyone can benefit from the Design System. [See examples](#) of how the design system is used within current services.
 
 ### Need help getting started?
 [Reach out to us](#). We’re available to help you figure out how to get started.
