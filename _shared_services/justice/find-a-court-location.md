@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Find a court location
-parent: Justice Shared Services
+parent: Justice Platform Shared Services
 nav_order: 4
 ---
 In development

@@ -11,7 +11,6 @@ nav_exclude: true
 Design system and other resources for all service teams.
 {: .fs-6 .fw-300 }
 
-
 ---
 
 ## What's new

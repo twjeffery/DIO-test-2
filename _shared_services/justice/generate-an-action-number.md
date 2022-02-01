@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Generate an action number
-parent: Justice Shared Services
+parent: Justice Platform Shared Services
 nav_order: 1
 ---
 

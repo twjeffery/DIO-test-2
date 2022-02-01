@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Look up information for court personnel
-parent: Justice Shared Services
+parent: Justice Platform Shared Services
 nav_order: 5
 ---
 In development
