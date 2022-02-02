@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Look up contact information for lawyers and law firms
-parent: Justice Platform Shared Services
+parent: Justice Shared Services
 nav_order: 2
 ---
 

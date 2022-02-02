@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Look up details about a civil action
-parent: Justice Platform Shared Services
+parent: Justice Shared Services
 nav_order: 3
 ---
 
