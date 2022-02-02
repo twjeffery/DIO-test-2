@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Events
-parent: Alberta Digital Service Platform
+parent: DIO shared services
 ---
 
 # Events

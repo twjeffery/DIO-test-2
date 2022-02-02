@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Access
-parent: Alberta Digital Service Platform
+parent: DIO shared services
 ---
 
 # Access

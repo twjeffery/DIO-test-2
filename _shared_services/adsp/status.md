@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Status
-parent: Alberta Digital Service Platform
+parent: DIO shared services
 ---
 
 # Status
