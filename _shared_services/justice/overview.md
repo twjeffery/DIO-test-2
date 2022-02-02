@@ -43,4 +43,4 @@ Help your users find a court location.
 ## [Look up information for court personnel](https://twjeffery.github.io/DIO-test-2/shared_services/justice/justice-ja-shared-directory/)
 `court-personnel-api`
 {: .mb-1 }
-A directory to look up meta data or contact information regarding Justice, Judge, or Justice Assistants (JA) to use in your service.
+A directory to look up meta data or contact information regarding Justices, Judges, Masters or Judicial Assistants to use in your service.
