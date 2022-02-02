@@ -15,18 +15,18 @@ Shared services are solutions to common needs that services have. Notify a user,
 
 ---
 
-## Alberta Digital Service Platform (ADSP)
+## DIO shared services
 
-Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
+Shared solutions to common needs for all service teams. The DIO shared services are hosted by the Alberta digital service platform (ADSP).
 
-[Browse ADSP](https://twjeffery.github.io/DIO-test-2/shared_services/adsp/overview/)
+[Browse DIO shared services](https://twjeffery.github.io/DIO-test-2/shared_services/adsp/overview/)
 
 ---
 
-## Justice Platform Shared Services
+## Justice Shared Services
 
-Solutions to common needs that services have, specific to Justice. Generate an action number, look up details about a civil action, and more.
+Shared solutions to common needs that services have within the area of Justice. Generate an action number, look up details about a civil action, and more.
 
-[Browse justice platform shared services](https://twjeffery.github.io/DIO-test-2/shared_services/justice/overview/)
+[Browse Justice shared services](https://twjeffery.github.io/DIO-test-2/shared_services/justice/overview/)
 
 ---
