@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alberta Digital Service Platform
+title: DIO shared services
 has_children: true
 nav_order: 1
 has_toc: false
@@ -9,7 +9,7 @@ has_toc: false
 # Alberta Digital Service Platform (ADSP)
 {: .no_toc }
 
-Components are reusable parts of the user interface that have been made to support a variety of applications. You can use individual components in many different patterns and contexts.
+Shared solutions to common needs for all service teams. The DIO shared services are hosted by the Alberta digital service platform (ADSP). 
 {: .fs-6 .fw-300 }
 
 ## Table of contents

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Justice Platform Shared Services
+title: Justice Shared Services
 has_children: true
 nav_order: 2
 has_toc: false
 last_modified_date: today
 ---
 
-# Shared services - Justice Digital
+# Justice shared services
 {: .no_toc .mb-5}
 
-Solutions to common needs that services have, specific to Justice. Generate an action number, look up details about a civil action, and more.
+Shared solutions to common needs that services have within the area of Justice. Generate an action number, look up details about a civil action, and more.
 {: .fs-6 .fw-300 }
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Calendar
+title: Directory
 parent: Alberta Digital Service Platform
 ---
 
